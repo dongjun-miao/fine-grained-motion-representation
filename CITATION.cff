@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If referring to this project, describe it as an independent research portfolio, not a peer-reviewed publication."
+title: "Fine-Grained Motion Representation and Temporal Evidence Grounding"
+type: software
+authors:
+  - family-names: Miao
+    given-names: Dongjun
+version: 0.1.0-portfolio
+date-released: 2026-11-12
+abstract: "Reproducibility and failure-analysis portfolio for fine-grained video understanding; no validated novel-method or SOTA claim."

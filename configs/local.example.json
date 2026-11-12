@@ -1,0 +1,7 @@
+{
+  "dataset_root": "/path/to/authorized/local/data",
+  "weights_path": "/path/to/separately/authorized/checkpoint",
+  "test_allowed": false,
+  "subject_mapping": null,
+  "notes": "Template only. Do not commit filled local paths, annotations or identities."
+}

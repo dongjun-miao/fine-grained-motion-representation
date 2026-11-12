@@ -1,0 +1,3759 @@
+[
+  {
+    "path": "docs/detection_baseline_v2/01_code_audit.md",
+    "sha256": "81dcd625380b48b0e3deab135d7470c800876c159cc38e18c58ce32c0e820f11",
+    "lines": 23,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/02_results.md",
+    "sha256": "74f77307980646b3cda2d0cf4d633dec21d47d698a0ea6f1b8ab527e00dac815",
+    "lines": 63,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/03_failure_cases.md",
+    "sha256": "88210e4f031008a29bb8c4c05c90091402ee1eefdba09c7ce6220517da419240",
+    "lines": 24,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/04_research_decision.md",
+    "sha256": "965b3e7a83e0c80257717d0509c45f89ce45fb0e29e91f9c7d3bf4a48c1ab9ac",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/05_report_errata.md",
+    "sha256": "7603a57b838a53a72492b63fd649919e5dc0d015f8121818e2d42c8e404a690d",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/protocol.md",
+    "sha256": "aacc1aebd286c68f3a6f59c061f6153f60319103f003cfbf8b642b5b45a1159a",
+    "lines": 31,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/quarantine_audit.json",
+    "sha256": "56c8b536aade814d8c38a4f94d291a582fdae925e0ac162b57e69031013ac465",
+    "lines": 168,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "docs/detection_baseline_v2/README.md",
+    "sha256": "815145f8a58ba8b3f504c46ef0d91e5b6f51bb029fea445cbfa3b83ecf6dabb2",
+    "lines": 13,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/evaluation_definition_audit.md",
+    "sha256": "0122606e41e72557bf11201e06101891c567031d9c1b74b94e9e2454e3dc5441",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/evidence_annotation_tool_v1.md",
+    "sha256": "0b9798fc63ab814bc92aa14f42d2126a8140888a4e78fe3b8ff84ca10a75c25a",
+    "lines": 48,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/evidence_authorization_update.md",
+    "sha256": "1b8a7bfda61b81c2fb82d0001ef7ab1f64abcd9fea1ec7e42e5a5374fe45de02",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/evidence_pilot16_standard.md",
+    "sha256": "a1551426dc1705dca7159bdb826b27264f3a9185f23732b64fcad8b00a8623c4",
+    "lines": 27,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/evidence_pilot_annotation.md",
+    "sha256": "ef484eff63825c26f3cdce5638a6ec220ad0207ba6e22b3d7a85bc1274f1103d",
+    "lines": 25,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/execution_notes_wp1_wp2.md",
+    "sha256": "c251931c597e045b830674eee2c470544dc4cce2b55350ad31fdd92d08a9a9a8",
+    "lines": 16,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/experiment_protocol.md",
+    "sha256": "0da7abbcba77a849c9167f196a33dcb760e45dc44cf76167b625d701b94ace2a",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_analysis_addendum.md",
+    "sha256": "9dc4adf8b64a91f113ad1e6a30ae21545dda862c3bf3b53b8bd43d07ff135a57",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_engineering_notes.md",
+    "sha256": "5870db5c53f1135253059b361f03ac403f2a7470a527895b8c2402d5107abe41",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_feature_diagnostic.md",
+    "sha256": "d13979230cc6619ff8604fa929bf82d504a8b39baed714f89234dd068c77215e",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_interpretation.md",
+    "sha256": "ed1a177bd56849563966702389f33ac526be9e5be8861c6bb556a4ebae6a29ea",
+    "lines": 42,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_protocol.md",
+    "sha256": "67c543e454bfd84e6a3f9eae3791089be69fee3ef1fa5742968edc689abc1653",
+    "lines": 33,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/fullblock_v1_results.md",
+    "sha256": "4d751c934c20d20f8363e805a396fd9e58c224b938e23d64cb5f4461f36822e6",
+    "lines": 211,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/hour_session_20261021.md",
+    "sha256": "802a4f52368f2593abec668405c04d999b28c9b46fdcde0ecf68a7948b37054f",
+    "lines": 50,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/implementation_plan_v2.md",
+    "sha256": "0e938ced6370f87b7835c082027988ffb5cde68c774ad839b4b4507d8177f60f",
+    "lines": 91,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/literature_gap_v2.md",
+    "sha256": "8abc2a87c2f0c810d6450de6c9e117dd9a1ea470b4c4f6f508bfa9d12ac43999",
+    "lines": 47,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/literature_review.md",
+    "sha256": "f044a1f709f5562d36110c21f1d157640bad26eccb9826141b8132d7350d4b24",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_delta_branch_closed.md",
+    "sha256": "021adac3060ff1f77a14fe32daa53f9bc0d7f223da494497a0bed86bd002e877",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_delta_gate_results.md",
+    "sha256": "7b7279a0ea2f8a4dbc0ab9f1ede6bab6d6e7fe13de62e1538664d1061f8f1b83",
+    "lines": 79,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_delta_mechanism_analysis.md",
+    "sha256": "f3d29865eb6ceed38bbb1eae21e005feb4dfbe0336e08f1f7a6f4df056e30c06",
+    "lines": 58,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_recognition_probe_v1/protocol.md",
+    "sha256": "d4b4ca84344a7236e7a92ac8471a186e67a86d9aa427cd51c9decf622655d35d",
+    "lines": 31,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_recognition_probe_v1/README.md",
+    "sha256": "e302b3483e89a3eb52b5801f5778ccb203f90060b14730fd1452752bf2e63f67",
+    "lines": 20,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_recognition_probe_v1/research_decision.md",
+    "sha256": "a1d0b15382c823e2128fa5a985ca563b026df187b742c758f48dd380c25b1de8",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/local_recognition_probe_v1/results.md",
+    "sha256": "298d63f9c4f149b44b4bb056f7e8ae55cf73f71b7bcf87fb264ef1636fb77d37",
+    "lines": 64,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/machine_probe_v1_readout.md",
+    "sha256": "145e0dfd81ad9694abd7b00b328823b284ed0a3b7874213ef292a419450b122b",
+    "lines": 10,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/01_research_brief.md",
+    "sha256": "ebdc40e51ec5da819b910a4958155ccae039ef0cf5d6c3e2c040c4b6c894f989",
+    "lines": 45,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/02_novelty_matrix.md",
+    "sha256": "835fc807463307ab259d6d59b33cded940d7b0b20598ee86581b3f9134145bc7",
+    "lines": 30,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/02b_primary_source_reading_notes.md",
+    "sha256": "e2841655743fc6041b68cd4221326343669d2314a5d77bf3be48580cea09b157",
+    "lines": 12,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/03_method_specification.md",
+    "sha256": "661983b6e2320e176086d6e5778b2d1aefc54b2eeb32a47c27b1a097b192493d",
+    "lines": 72,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/04_frozen_experiment_protocol.md",
+    "sha256": "efe3760232f905be6355d15be43ea1f97c6640989c3f614a86cf0cb6d7bcacbe",
+    "lines": 50,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/05_prototype_results.md",
+    "sha256": "b41f0ee64661c65da99b27fde643ffc66bd468432b4ad906d6433f9bfc4d1386",
+    "lines": 111,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/06_go_no_go.md",
+    "sha256": "52b4c3f08721a793509ee019e149e8768bc9f144ec14b311fca777d9fa4d71e3",
+    "lines": 52,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/07_one_page_chinese_brief.md",
+    "sha256": "0af5f09d7accd59f07613b5df30bca0b448aaeb888c03e1b99c21e5b509060bf",
+    "lines": 26,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/method_development_v1/README.md",
+    "sha256": "eb0f534c7f95420c730ff2194eae61270079249080b7ab46a0944c2e63c6480d",
+    "lines": 22,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/milestone_1.md",
+    "sha256": "1b96a6c063bdbf74b9f50be14ea7b4c2d940b2d3be3936d77b7dce1e48e61ca7",
+    "lines": 44,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_mechanism_review_v1.md",
+    "sha256": "94b14ce6217a76c924c9bdde567ef81d71bb62973ce1682ea77152ee0d07637c",
+    "lines": 42,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_resolution_followup.md",
+    "sha256": "e5e6a8965def95e7a884b6897dc8ab3bf63634529337e445777c959bb9101dbb",
+    "lines": 34,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_resolution_v1_protocol.md",
+    "sha256": "16f9d595b5b4854b1ef847049c46737b3d3228492865dc4fc576e9badaeb21fb",
+    "lines": 15,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_resolution_v1_results.md",
+    "sha256": "1f33c2718d0b1c659a3011a409f2d8ac07eb039b679160a08777765e4dd23157",
+    "lines": 52,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_v1_handoff.md",
+    "sha256": "bbc9314988232a4f8d13c92c34f80e31714eaf28d2fe7bdc88b56c0490fc5419",
+    "lines": 17,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_v1_intake.md",
+    "sha256": "0891999b52d3058e03a165c89a346cbe5053ca45eba8b1f72bb28aecfba1835a",
+    "lines": 32,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_v1_protocol.md",
+    "sha256": "c6ac14f9751deda504e8c8d39ad8b46a008c67a42f67ec57c1b80c29d9f3797e",
+    "lines": 42,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_v1_results.md",
+    "sha256": "c753482b24dfacc4391f88fcac8c8aef019d39fb621782d63331a048ae489701",
+    "lines": 136,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/mma52_workday_2026-10-26.md",
+    "sha256": "c91cf4142f4bd69a13f8aec4b0873d913727dada838822ab9005995320e3baa8",
+    "lines": 44,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/motion_baseline_context.md",
+    "sha256": "5fb139e64396ef368f96d6e0ea21a67f6dbcd755930f9195100133ce7d28a009",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/normalization_shuffle_control_v2.md",
+    "sha256": "bab683cb2e9b93becde86e97754268642b1b94f324b635a1735e6a40d3d78715",
+    "lines": 20,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/01_evaluation_audit.md",
+    "sha256": "1183efc3d4ca642b108a626575b696e9c39da3c11a02e8432f8ba289902537fc",
+    "lines": 124,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/02_observation_representation_diagnostics.md",
+    "sha256": "40e4b85d4611ccc04b4a9b9a26b6af426768f8ca14892c9a69015b4c8e0a15be",
+    "lines": 116,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/03_experiment_results.md",
+    "sha256": "4391a9ef59f0b84120ad7d3a904d85e784b3b75604350a5b6816999b332a6957",
+    "lines": 48,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/04_research_decision.md",
+    "sha256": "ed9ec4afcf89ac4a05b6cdbf94b24e4a729e1432415b69908da21c43fd13aa6c",
+    "lines": 39,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/05_morning_brief.md",
+    "sha256": "905072bbd8140eea9f6ee197f3fe3b32518a19c5382735b533762b1255df5a44",
+    "lines": 19,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/06_literature_review.md",
+    "sha256": "41c1a3a80b21324bc99404a5a5d25a10f31560354ae42a349a8bfd533eec6d64",
+    "lines": 22,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-27/protocol.md",
+    "sha256": "f553aeb7af824c690d82f148f831195f6e9b41eddd4637547e92947863e2e033",
+    "lines": 17,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/01_protocol_and_encoder_audit.md",
+    "sha256": "5625eb625eb5bbf242e0fea23434ce7e953ca70ad2a523714187042c1335dc35",
+    "lines": 39,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/02_strong_encoder_results.md",
+    "sha256": "ce34a887122c5def8700320a9017774e15acb9b96faa7a562915a4ffbc2f1c89",
+    "lines": 122,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/03_generalization_diagnostics.md",
+    "sha256": "9026758acdde0a06c7a3725c47170dfd106d845cad3691737c760917ba162782",
+    "lines": 118,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/04_research_decision.md",
+    "sha256": "9037db69127ada0700c45b886f1eab50012305e2a5c2ab7920bfb69d66caa99f",
+    "lines": 68,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/05_morning_brief.md",
+    "sha256": "9707ef0a2bd52acec305848a8740210c90f7c61f9fbb6242c8b7feddf48f8c2a",
+    "lines": 26,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/06_integrity_and_reproduction.md",
+    "sha256": "b9e9e7924dfced12e6be3e3f29a9de7714816ac8b82dda2997e7fe5b7c83fb61",
+    "lines": 18,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/analysis_rule_detail.md",
+    "sha256": "c0eb530eafb5b903b214fac0a76b6e2f2feb5b8fda654c8e87848438c91fa214",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/overnight_2026-10-28/README.md",
+    "sha256": "db600992f33bbd992d22858c25aabf23f937dd20818dedf49a73716191d900cf",
+    "lines": 23,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/01_distribution_audit.md",
+    "sha256": "48a2e4331f2e1134b7c4062eb68cb3b1b38354767f3abbe3b8de6cf37e90e567",
+    "lines": 48,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/02_local_evidence_results.md",
+    "sha256": "49a19d66bf8c0bf2cf77db095900d8e37d3416a60e61d10edb8c7aeeb8ba663a",
+    "lines": 83,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/03_evidence_matrix.md",
+    "sha256": "0bc8e422e84b748f3e38b7b6b8479a65531d7b69315acaa2aa077f48dcb019d6",
+    "lines": 51,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/04_failure_cases_limitations.md",
+    "sha256": "929c6064949c4d992a77a65f8109e81457de598d870eff6400e9c982c3acac24",
+    "lines": 30,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/05_research_direction_decision.md",
+    "sha256": "c7981c976b333173c5b5410fcc4973a11e0a013bffa84fc643b65daf758c66b7",
+    "lines": 33,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/06_artifact_index.md",
+    "sha256": "98ec6e38c314738da99791a10313288d49a3b22f0ad607a96720e7c57d6c8a48",
+    "lines": 34,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/07_key_findings.md",
+    "sha256": "d7b42d10e844840539eb7fc488746d94acec8281e716d805134d09e2da916c28",
+    "lines": 59,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/protocol.md",
+    "sha256": "6020c8f81bafae86fd0666532eae372737b3930a178f8defc51b26109a5d2373",
+    "lines": 29,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/protocol_corrections_v2.md",
+    "sha256": "96e1194a881575a5110711cc9de30cfd652c6adba0128c4e4ceae39c5ec2e74d",
+    "lines": 10,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/representation_generalization_2026-10-27/README.md",
+    "sha256": "2b00e84a152a836efe11deea2898bbae8d87098dbcbac442a538f6937ea90382",
+    "lines": 25,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/research_consolidation_v2.md",
+    "sha256": "77d619cbaa0ed28891e5fb5359c0561db1e141c6f91d56124bc542d86ade0cb6",
+    "lines": 41,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/research_proposal_v2.md",
+    "sha256": "ebfb90eac3798cb56c783e1e6e190e6e5822c4aa0bf1920170cb479970c700d6",
+    "lines": 53,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/research_questions.md",
+    "sha256": "7c6686980741ce28484e5d5e0bcf7b67dc40f51369ff4a5ba996f567a647dc95",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/source_count_control_exploratory.md",
+    "sha256": "5b3650f1aaba715043510bb9292ab801d119cb22b487e134a61447c03d437ead",
+    "lines": 7,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage10_protocol.md",
+    "sha256": "6a6c27a63fab4a51c0d7ca1957f04feaafd56f874a6ea398ce18065e45594a6f",
+    "lines": 28,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage10_results.md",
+    "sha256": "ae6d13deddca4f120b58115ac7b6775c38168bb909b12a0658751b3adff84050",
+    "lines": 58,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage11_protocol.md",
+    "sha256": "55623bbb0c69bced27646117bcaa1a0d9b108ae3ad2242fd5f8d8b0dbc1a9815",
+    "lines": 13,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage11_results.md",
+    "sha256": "481a2d2d41831ffc2ca51382d4770cd33c35b10b4605c1ca34f7311c2644ae9c",
+    "lines": 57,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage12_protocol.md",
+    "sha256": "f34b11ca6eba5fbac68c6c30246eb706803df50d2e34f37ffa3cad23195c3a36",
+    "lines": 13,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage12_results.md",
+    "sha256": "481b7779e053b0e812ecd76dba4ba36357c98cb24a2fe6646812e91440740332",
+    "lines": 65,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage13_protocol.md",
+    "sha256": "a225728f5db0fa617b6a09a64ae25ac34c0169a1d71a3914c6cd12d691564dbf",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage13_results.md",
+    "sha256": "cd1dfd1407a4e9336aef23557c4aa27729adcd68e8d4f4027c9afec34fe69762",
+    "lines": 34,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage14_protocol.md",
+    "sha256": "f78f421e0014a554a4189bd6078df76ea582b71e304fda147a62a4e16e3f25e9",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage14_results.md",
+    "sha256": "636a5b51398d76ccd61e2662380195657c47ae7b05b18139c8f6f321aa14c663",
+    "lines": 61,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage15_protocol.md",
+    "sha256": "2a4a966076098323bb78cc0c54e217ebd886b995ea4998c2c3270b934e3fe9ab",
+    "lines": 36,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage15_results.md",
+    "sha256": "dd60eb63d07897c4e68c45fbedc41173cd135b3220ab4a82c13e04a61e436e66",
+    "lines": 84,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage16_protocol.md",
+    "sha256": "19d96e025b14f2b27b11f4dc505b4466d319eba5d33dd75fd1d5090bff9a7025",
+    "lines": 16,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage16_results.md",
+    "sha256": "066a140582af8a1bbf6ba8da365e5afd0c3ecd4c109f4780c57b990d47dafa34",
+    "lines": 71,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage17_protocol.md",
+    "sha256": "541b658088857abf8e0cd6fe8329d5c7078cad651748a44d63ebf5f04e1bd4f2",
+    "lines": 22,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage2_protocol.md",
+    "sha256": "643aac3acc4cad1ab2ac284e038401f08cc7015861cb49410a77afe88f88eb6d",
+    "lines": 53,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage2_results.md",
+    "sha256": "fc4577ca68dddef81bab76a2fc8af28e351f441acb507a570ed408150ff0aaf8",
+    "lines": 56,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage3_protocol.md",
+    "sha256": "d70872bc6548e9225b60a871f4b9db4ecbaacde17f2a48ee5065af68ab490ee7",
+    "lines": 36,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage3_results.md",
+    "sha256": "0961d91d003b7bda30c199d055fe93534c96dddb0e9065b958e133e48ce74d94",
+    "lines": 95,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage7_protocol.md",
+    "sha256": "54e0986b81ebf79dce356975c1aad619bb14081162b678f3cd1c8da978ca71ca",
+    "lines": 31,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage7_results.md",
+    "sha256": "4197e5cf9e3ac51633f001856a56927ec4d9f069c2a39b3c15eedfbbe71b48c7",
+    "lines": 85,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage8_protocol.md",
+    "sha256": "404e4777a2dd112ad85ecc3a10a660276dd600a9fc25b6124b82378af2f240f8",
+    "lines": 17,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage8_results.md",
+    "sha256": "03bd1530baa7dbce27b6fd3bcd1ae3fc67854cabce799564e825a1bf9e25782d",
+    "lines": 77,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage9_protocol.md",
+    "sha256": "fda1312e012e507b7ad21bdd1b43d91215694df4445cece1b18c1b23827bb75f",
+    "lines": 29,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stage9_results.md",
+    "sha256": "1c68c8eee3cb8a6afa750ca5887bcf10c96e7e7abb735f963d36d41a4a2c1001",
+    "lines": 97,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stages4_6_execution_notes.md",
+    "sha256": "9925f848b9dbc58503b210bc522a5dcaa457819bf5171c865ac4ad3640a5bae0",
+    "lines": 9,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stages4_6_protocol.md",
+    "sha256": "1cdd902ae01989023fda76b99abe0d65977f964b09453ea7f345306588eddc4f",
+    "lines": 26,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/stages4_6_results.md",
+    "sha256": "e37cb834bf2e418334c73bbd9017cbaef7e7c7e77276488f4c754aa89a3db68b",
+    "lines": 169,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/subject_metadata_audit.md",
+    "sha256": "c6510200add6662b7dff0fd8a98a4371a9a156ab6a08a9c00a4a55d63863abcf",
+    "lines": 61,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/subject_source_author_questions_draft.md",
+    "sha256": "d1427f09c46ec34be6dfd2a2664401d23d4b397d1ce39aac8c327852dce2aca0",
+    "lines": 8,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/video_baseline_full_results.md",
+    "sha256": "99a3bdfecd72a8cc12ab6078a300169373a34a06bb0eaaa66a6e3a608c0c4ac5",
+    "lines": 38,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/video_sampling_mechanism_notes.md",
+    "sha256": "9a81aaa51ce6458a87f57ac2cf193d1b80e61dc8ec3b0feabb7a7ea81bdf0c17",
+    "lines": 12,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp1_results.md",
+    "sha256": "272c3dad69585b921f7abe2ed6bb77e3320ee0d045e031a381124649c2d0b912",
+    "lines": 28,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp2_full_protocol.md",
+    "sha256": "8d4f21f99adcf4b159d0cfc707f169e1c5ad383613aa958f5b0b2986328feb59",
+    "lines": 16,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp2_protocol.md",
+    "sha256": "4cfc92b2edac4e51ef103152ba7a8a077d2d7419d329ccdd59787ea56298050a",
+    "lines": 25,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp2_results.md",
+    "sha256": "dac1905573b58d4bb57ff3b04cf2e73b93fe15bff07587dcf14a0288baaee429",
+    "lines": 64,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp3_local_delta_protocol.md",
+    "sha256": "6a2e901102f43dc163b623e518b994716468997865658b1eb0b6e80613d5cb67",
+    "lines": 13,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp3_partial_interpretation.md",
+    "sha256": "03582b7f4858a895741e7c238865e05bb4d3e94f98520626bc82671c640420c6",
+    "lines": 53,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp3_partial_protocol.md",
+    "sha256": "4398e5690b9a453040a4cb89ab3ad841fb817613ca5d984db62c0526476f844c",
+    "lines": 31,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp3_partial_results.md",
+    "sha256": "dc95e84c3fe0380dd8c1f66690c001e371778954bda79462f9f1bcaabd64da1c",
+    "lines": 164,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "docs/wp3_time_control_addendum.md",
+    "sha256": "eccf741ef1a37b19524990661341f6701dc8b9acb28a367c160c19c79accb1ab",
+    "lines": 11,
+    "kind": ".md",
+    "definitions": []
+  },
+  {
+    "path": "scripts/analyze_fullblock_groups.py",
+    "sha256": "c5c004f3163cb96bd75ea95aa3a52841c9eb198f158ca62dfdcdf800b0da796d",
+    "lines": 35,
+    "kind": ".py",
+    "definitions": [
+      "csv_write",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/analyze_mma52_sources_v1.py",
+    "sha256": "c84d005c6284b7eb99a262c3393fc0cfd402657448aa5828a057f13d77256dce",
+    "lines": 64,
+    "kind": ".py",
+    "definitions": [
+      "csv_write",
+      "matched_instances",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/analyze_roi_factorial.py",
+    "sha256": "88b8c13e1323ae06e3516b637b6278b24cf3fac455e1ff797e912af41d7daa8f",
+    "lines": 74,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "analyze"
+    ]
+  },
+  {
+    "path": "scripts/analyze_sampling.py",
+    "sha256": "969646c76a40afcdfc7c4b9bfc548d5ecd1c33507690dc0199c8e505b3557981",
+    "lines": 50,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/analyze_stages4_6.py",
+    "sha256": "1fe61a586a12f091d7e0f28ce21b12ce8049278c7e993add390b7042e5a80b63",
+    "lines": 141,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "group_name",
+      "confusion",
+      "from_confusion",
+      "harmonic_macro_pr",
+      "predictions",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/analyze_temporal_order.py",
+    "sha256": "b0dfe1fa7102fd7772ba1400b50420453f409d2ce567229289195befd9b84ece",
+    "lines": 66,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "analyze"
+    ]
+  },
+  {
+    "path": "scripts/analyze_video.py",
+    "sha256": "db07edb05672372b426b1711e530f714175f746231eec33727e5933905b1406c",
+    "lines": 92,
+    "kind": ".py",
+    "definitions": [
+      "analyze"
+    ]
+  },
+  {
+    "path": "scripts/audit_adapted_fullblock_features.py",
+    "sha256": "c61850d60a2baff52d9ca3ab2a62ef46243761900b9f963ed26fb51d9ba151e7",
+    "lines": 31,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/audit_annotations.py",
+    "sha256": "f22496efec91840ba2c0355251d4b96208b13c87ccc9958e730f113a9aae9c89",
+    "lines": 77,
+    "kind": ".py",
+    "definitions": [
+      "audit"
+    ]
+  },
+  {
+    "path": "scripts/audit_content_duplicates.py",
+    "sha256": "72956dae35c5c728ae73692fefa012ddbba121a64de0c8627fdd10e572cb3397",
+    "lines": 34,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/audit_dataset.py",
+    "sha256": "0ca40f9798c43110f462d9a697ba7f732d0914704179550298a2948295e5b4a6",
+    "lines": 64,
+    "kind": ".py",
+    "definitions": [
+      "audit"
+    ]
+  },
+  {
+    "path": "scripts/audit_fullblock_sources.py",
+    "sha256": "e22bf2d8701f48381303bfbea01f504101361840282a7a5bd4b76f6197ce94c3",
+    "lines": 35,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/audit_lineage_wp1.py",
+    "sha256": "6d04ac456280478823a28e256b74c000e302d807526b45fb6c2439177eb77b2a",
+    "lines": 51,
+    "kind": ".py",
+    "definitions": [
+      "phashes",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/audit_mma52_v1.py",
+    "sha256": "d86371bd669f5985103bb49bbbf7f77f03cd2d33fb743e6560b520fab69de78b",
+    "lines": 72,
+    "kind": ".py",
+    "definitions": [
+      "sha",
+      "write",
+      "probe",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/audit_roi_factorial.py",
+    "sha256": "e38e477be2650ec2cab67a0f9d1aa389c3996261685360e6133dbf2873e3cf9f",
+    "lines": 57,
+    "kind": ".py",
+    "definitions": [
+      "audit"
+    ]
+  },
+  {
+    "path": "scripts/audit_source_count_control.py",
+    "sha256": "fbdcf913675690a4b03e4f7759fdc450cf23f0471dff4d08122bb6f5a94493d4",
+    "lines": 33,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/audit_subject_metadata.py",
+    "sha256": "7bbf477f3941230b9c42e2cfc9b1f7fef00569831f05a3db1243c1887d5e0ecb",
+    "lines": 49,
+    "kind": ".py",
+    "definitions": [
+      "read"
+    ]
+  },
+  {
+    "path": "scripts/audit_wp3_cache_precision.py",
+    "sha256": "2e34f121296ccf588da7e320f356ececb8d9ea48960e0be7b750e21dfa9654aa",
+    "lines": 40,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/check_mma52_cache_anchors_v1.py",
+    "sha256": "51d7bd4774b7da25fd365763340080865163d195735bc3821054430954d381a9",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_common.py",
+    "sha256": "e880a2c052a9ca73b2c4cdeb3539b9c1c77dcf0d7b22ad207e05578ad7972ae9",
+    "lines": 94,
+    "kind": ".py",
+    "definitions": [
+      "data",
+      "targets",
+      "Head",
+      "loss_fn",
+      "overlap",
+      "decode",
+      "infer",
+      "__init__",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_evaluate.py",
+    "sha256": "cfd8463f51d9c54f0e42cdddcdb76e40ab91406be3eeca009c3a92f4f9c3e701",
+    "lines": 47,
+    "kind": ".py",
+    "definitions": [
+      "csvout",
+      "metric",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_fetch.py",
+    "sha256": "8b2506f269fccb7cd9fab3584456d84b1e13e57a7d1f19e0db989ccc60b0db6a",
+    "lines": 12,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/detection_v2_fetch_required.py",
+    "sha256": "984b9982a00f90b6b56eea718f17ad2893235c99090476d5c64e06fb230e0ae8",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/detection_v2_fetch_selected.py",
+    "sha256": "34a367958c09aee7fa602536d9c9a43dd1675daf2ede2183414bbb74bd88503b",
+    "lines": 17,
+    "kind": ".py",
+    "definitions": [
+      "get"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_figure.py",
+    "sha256": "6b8a48cd704b8271b2d3fc7b43490c67e9a9a33aa0034bda0c05176ad8eb76a5",
+    "lines": 17,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/detection_v2_figure_corrected.py",
+    "sha256": "5af577231fab19a16e59db51ce61a7d56ada638bcbacc6ca555cfc20c8ad06e1",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/detection_v2_reference_verify.py",
+    "sha256": "06e4fcef62ce42bca9d1d2d888e89a0f2df2e89dca2f26979714f4106bd3e0fd",
+    "lines": 22,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_report.py",
+    "sha256": "08ff2e4795cc72c06abe3942441856cf716f383f537cc3970d0198a597059e96",
+    "lines": 45,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "save",
+      "table",
+      "csvout",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_tests.py",
+    "sha256": "5cb6e917f35d697770c92a3ada9275ed2523a071ede383d8be26d0f0e255c8e9",
+    "lines": 37,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "row"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_train.py",
+    "sha256": "c2401b39d3509649e069fb8af2efa38c079301a120406e64bebf5888cc5f2159",
+    "lines": 30,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/detection_v2_verify.py",
+    "sha256": "f8829d44ecd0dc26ae80e58c0bdeab5fdda432976c32b939400b1c26c56f0720",
+    "lines": 28,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/diagnose_videomae_precision.py",
+    "sha256": "aa2c4d640850a90e5ad1a1a0b5705fcf81609451650e2b6fae9dd977d77290aa",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/download_artifact.py",
+    "sha256": "3cb72169a01bf62051ce9838b325f3215d3882eaeebd2178228f6c6a378247f9",
+    "lines": 100,
+    "kind": ".py",
+    "definitions": [
+      "sha256",
+      "download",
+      "fetch"
+    ]
+  },
+  {
+    "path": "scripts/environment_report.py",
+    "sha256": "712b68042ba69d77162b89cb0a7068451c4b59a8f875275e48ba0e6cf3e65d22",
+    "lines": 37,
+    "kind": ".py",
+    "definitions": [
+      "report"
+    ]
+  },
+  {
+    "path": "scripts/evidence_annotation_server.py",
+    "sha256": "8cd0e33b96e26702fd1280d705932244d6f316c761e8de566ae62ae397d1fc4d",
+    "lines": 210,
+    "kind": ".py",
+    "definitions": [
+      "Rejected",
+      "require",
+      "utc",
+      "sha",
+      "read",
+      "write",
+      "integer",
+      "Store",
+      "NativeFrames",
+      "Handler",
+      "main",
+      "__init__",
+      "auth",
+      "authorized",
+      "authorization",
+      "released",
+      "check",
+      "group",
+      "document",
+      "validate",
+      "save",
+      "release",
+      "public",
+      "__init__",
+      "png",
+      "log_message",
+      "reply",
+      "dispatch",
+      "handle_request",
+      "do_GET",
+      "do_POST"
+    ]
+  },
+  {
+    "path": "scripts/extract_baseline_features.py",
+    "sha256": "95d491654a8a41649e002d3c4d9ec6a940d3750673eb20c3c678ea79f74b9be0",
+    "lines": 145,
+    "kind": ".py",
+    "definitions": [
+      "extract",
+      "submit_next"
+    ]
+  },
+  {
+    "path": "scripts/extract_fullblock_v1.py",
+    "sha256": "2757e221f45634cde459c4f5cf3dc81b86dad3cdc22c2277b88747a670ea9626",
+    "lines": 44,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/extract_guard_regions.py",
+    "sha256": "4f548d1aed0c8da24c9bc1e06927d265a26b1466995284238737bf74e11ff487",
+    "lines": 124,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "worker"
+    ]
+  },
+  {
+    "path": "scripts/extract_mma52_v1.py",
+    "sha256": "6891b849443c09b603aae27992807eb4b43caba601a55c0af290b0351cb03400",
+    "lines": 90,
+    "kind": ".py",
+    "definitions": [
+      "check_time",
+      "video_inputs",
+      "encode",
+      "main",
+      "read_history"
+    ]
+  },
+  {
+    "path": "scripts/extract_motion.py",
+    "sha256": "0676f81442b55c65e4f191bb3ab67d768791a79b8be5c7fd7f7640d27a51df94",
+    "lines": 92,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "worker"
+    ]
+  },
+  {
+    "path": "scripts/extract_person_boxes.py",
+    "sha256": "01dfc57982bf5859fc51f622ce587ed879901835e02df637f7e089da843b3fb9",
+    "lines": 179,
+    "kind": ".py",
+    "definitions": [
+      "read_frame",
+      "contact_sheet",
+      "main",
+      "worker"
+    ]
+  },
+  {
+    "path": "scripts/extract_pixel_regions.py",
+    "sha256": "56d39538bb787aff74b68e90f4805b0a1edd796b5cfb432cf4b41b71809f2df1",
+    "lines": 120,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "worker"
+    ]
+  },
+  {
+    "path": "scripts/extract_roi_factorial.py",
+    "sha256": "bc250ec6116cc0dce9689ecb59e9f55f3252044c8987fc3956a397a58e81b115",
+    "lines": 128,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "worker"
+    ]
+  },
+  {
+    "path": "scripts/extract_video_study.py",
+    "sha256": "40eeb5cffd87c7abacb27cd9f1c8ebc3397787d529da1d54b1fe004674341ca7",
+    "lines": 65,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "hook"
+    ]
+  },
+  {
+    "path": "scripts/extract_videomae_small.py",
+    "sha256": "bf60053f294ec698b5ccf027510f0485adbeb6d9558f8c87186fcc3e88640457",
+    "lines": 48,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/extract_wp3_partial.py",
+    "sha256": "949bf2ad17a40d943b7acfc2fb03556501fc22cd6e5abde3dbabe2f234a9db17",
+    "lines": 57,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/fetch_person_detector.py",
+    "sha256": "859cfbd8a404cd537e8535241760dfcba5133c7a8abbe8a0941607cfaffc9253",
+    "lines": 33,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/fetch_subject_metadata_documents.py",
+    "sha256": "140ef97217542f0edd72683de56d9e5f48fcb2be7b6b391013c7a2d9199fdfd9",
+    "lines": 35,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/fetch_subject_metadata_sources.py",
+    "sha256": "08e11720b9a9701fcd5e9297b6aaa536fa40863ad6f38dca4b775519abc7970c",
+    "lines": 46,
+    "kind": ".py",
+    "definitions": [
+      "fetch"
+    ]
+  },
+  {
+    "path": "scripts/freeze_local_delta.py",
+    "sha256": "a3acaa311c6fc7f67546f578370d22fd840fc4950a063a0bbf6a44b922b97f23",
+    "lines": 19,
+    "kind": ".py",
+    "definitions": [
+      "sha",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/freeze_mma52_workday_v1.py",
+    "sha256": "c0ec26a81af77362311c7bef4768599966d0a6ce65262ccfd4d638fb0910a8b9",
+    "lines": 32,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/freeze_research_baselines_v1.py",
+    "sha256": "069577bed11a9b7fe52186ef10edb6b5b645d1c81f38b4aaf71fdd3635cee869",
+    "lines": 27,
+    "kind": ".py",
+    "definitions": [
+      "sha",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/fullblock_v1_common.py",
+    "sha256": "065146dbdaf4d4e0e8c7a9fcd1870f956c920009dac3935898e62b04d5aa5370",
+    "lines": 52,
+    "kind": ".py",
+    "definitions": [
+      "write_json",
+      "phash",
+      "PrefixReader",
+      "FullBlockHead",
+      "partitions",
+      "load_cache",
+      "__init__",
+      "__getitem__",
+      "__init__",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/guard_training_data.py",
+    "sha256": "d2e84fcf793fa27e89306095b5c44c56e32ecfa7ff1885657a7ebe4aceeb46a6",
+    "lines": 41,
+    "kind": ".py",
+    "definitions": [
+      "load_guards",
+      "guard_values"
+    ]
+  },
+  {
+    "path": "scripts/inspect_mma52_affected.py",
+    "sha256": "965d61165c51b506a07fe762bf6a93764ba7c64c5f9e05bb0b63d49c88ae559a",
+    "lines": 32,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/local_delta.py",
+    "sha256": "6a55fa2e2830ec082f67b316d0446c050e4e1b8cb3fa3f123ab59d120c7348d6",
+    "lines": 29,
+    "kind": ".py",
+    "definitions": [
+      "LocalDeltaHead",
+      "__init__",
+      "branch",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/local_probe_v1.py",
+    "sha256": "25a2e5f99de957dbc139593616b063933dc8a71296bc269c8b60c111b1b72762",
+    "lines": 76,
+    "kind": ".py",
+    "definitions": [
+      "labels_for",
+      "metrics",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/local_probe_v1_report.py",
+    "sha256": "5e0df23aade4536a636351a6cd135812c15722c55a12b9243e5a0160f2ab8ce8",
+    "lines": 44,
+    "kind": ".py",
+    "definitions": [
+      "table",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/make_notebook.py",
+    "sha256": "f949bc7dd7eaa7528c5ace05e83632f67e174900923787a9152eb7203e6fc87c",
+    "lines": 17,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/methodv1_audit.py",
+    "sha256": "2756b4f131b92bbcf58d3c9123377be2e34fce3799f57f46b7f41bea3fed7b10",
+    "lines": 31,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_brief_pdf.py",
+    "sha256": "bd0064ef4d2c224074e7bb4c986e338d7ab02b6493af1039845ccb9ef017f590",
+    "lines": 42,
+    "kind": ".py",
+    "definitions": [
+      "markup",
+      "main",
+      "canvas_page",
+      "flush"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_close.py",
+    "sha256": "4f9327b7800f509953190b4a0c814b4769576508bec32dda0ed610a78fd89e7c",
+    "lines": 23,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_common.py",
+    "sha256": "af1e8ab99ccf6314cf8375093020f61400dce26c4aa33dc44b46292460a9adca",
+    "lines": 21,
+    "kind": ".py",
+    "definitions": [
+      "params",
+      "input_identity",
+      "rules"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_driver.py",
+    "sha256": "889eefd21c8fcf43da5d64ecbabbc5c3797c0f908b13e4d7cc57331bca6efc00",
+    "lines": 19,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_encode.py",
+    "sha256": "4bbfd50d91aacb4c9baaadd68cba3c9f7ce6fc8b342647871261e036be80bc5c",
+    "lines": 63,
+    "kind": ".py",
+    "definitions": [
+      "prepare",
+      "decode",
+      "infer",
+      "main",
+      "progress"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_figure.py",
+    "sha256": "833968abb3b1b187e29f384279b14b495fb43013b94bb46dde1d541689ee34fe",
+    "lines": 14,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_literature.py",
+    "sha256": "b3d8f41d68ba7073ac08c0fc646738d1c2a5ad45c666ba334e60417206f6ebe7",
+    "lines": 12,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_probe.py",
+    "sha256": "8858a40805b27e21b01387358485e1ceaf7aa4cdddb8461e003a742859179d52",
+    "lines": 82,
+    "kind": ".py",
+    "definitions": [
+      "smoke",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_report.py",
+    "sha256": "1211e2aa751487d57bdb048a844b210664716574e9853e930b0d3fc7484679fc",
+    "lines": 105,
+    "kind": ".py",
+    "definitions": [
+      "table",
+      "main",
+      "get"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_review.py",
+    "sha256": "61060418a37b068f33f64cb6e9f6535aa986e4cb57c88f309ddab919d45f05b5",
+    "lines": 42,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_structure.py",
+    "sha256": "573b55d0a010445cd8d9a95ff309a74cd459fd06f195a5532cd662fe2c0c8551",
+    "lines": 19,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/methodv1_update_check.py",
+    "sha256": "a9507bf3a1eba58d0f42814c849e1d343c8b77dd3be709b26dd3b5d0ec047528",
+    "lines": 14,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_grid_preflight.py",
+    "sha256": "e9b2ac9790ebd3a34b39b51af4c5a6fe5cee17434f41563ea6a3842315854207",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_mechanism_review_v1.py",
+    "sha256": "0aa51351c4d2ca73ef109ac5be1b7e46dd376140a66af508c519f18832d09ba7",
+    "lines": 77,
+    "kind": ".py",
+    "definitions": [
+      "analyze",
+      "report",
+      "oracle",
+      "counts",
+      "pack"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_common.py",
+    "sha256": "d4467990a6b784212307636aac7e8ac2322283547f02af95a42ec539c90e0e09",
+    "lines": 57,
+    "kind": ".py",
+    "definitions": [
+      "check_time",
+      "gate",
+      "merge_tokens",
+      "interpolate",
+      "labels",
+      "make_proposals",
+      "detection_metric"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_driver.py",
+    "sha256": "9cb7dbad831143ccf639b3d21d31c414b53c87abacc97460c9be43179a58d2ba",
+    "lines": 40,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_extract.py",
+    "sha256": "c3126e0ac908422a13f9b20d5b4b1a7c917251367732367acfdc64dffc95216f",
+    "lines": 66,
+    "kind": ".py",
+    "definitions": [
+      "encode",
+      "main",
+      "progress"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_report.py",
+    "sha256": "4ae0c5507e88da1239189af6c7dd172d2afeb870940ab424e704bd7a59674148",
+    "lines": 46,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_train.py",
+    "sha256": "090414f72f197337d01ab555ff17189b30b393f33231dae5f3a5d4ca698399d6",
+    "lines": 109,
+    "kind": ".py",
+    "definitions": [
+      "data",
+      "predict",
+      "csv_write",
+      "evaluate",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_resolution_verify.py",
+    "sha256": "50a756d6e17100363d3730042bfc91b84e7ab2741cf62d548187b231a3c14ece",
+    "lines": 15,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/mma52_v1_common.py",
+    "sha256": "59f7787d6e2bf931f178554abebc3e44b575401658be33b32cb4bce5c8b92408",
+    "lines": 25,
+    "kind": ".py",
+    "definitions": [
+      "sha",
+      "write",
+      "sampling",
+      "records",
+      "inner_partition"
+    ]
+  },
+  {
+    "path": "scripts/mma52_v1_metrics.py",
+    "sha256": "26e1f55d0115d1123370d49f8899c0607003822cca71f0580e6d2e6d20699929",
+    "lines": 47,
+    "kind": ".py",
+    "definitions": [
+      "binary_ap",
+      "multilabel",
+      "proposals",
+      "detection",
+      "body_detection"
+    ]
+  },
+  {
+    "path": "scripts/mma52_workday_guard.py",
+    "sha256": "d163780b05afb90736e78ff582781af05d6e7993ce354502d787f2ef6e02e93b",
+    "lines": 15,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_common.py",
+    "sha256": "f17a8160031ac42990bba01163e8fa2b341968a89e93bc4058b3d7bdeecc53f0",
+    "lines": 28,
+    "kind": ".py",
+    "definitions": [
+      "check_time",
+      "spec",
+      "csv_write",
+      "ious",
+      "target",
+      "oracle_schedules"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_coverage.py",
+    "sha256": "378c2bc78650596e074e60e32b0c2fad429da8b85af64d7790505515837c99d2",
+    "lines": 73,
+    "kind": ".py",
+    "definitions": [
+      "errors",
+      "cmh",
+      "logistic",
+      "main",
+      "estimate"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_driver.py",
+    "sha256": "1e7133352400dcd49fafa0336b4d2b08fcf924184af93a0b336e9e072aede398",
+    "lines": 39,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_driver_v2.py",
+    "sha256": "c757515ab3ceedabeb3960bf016b0a9c81f67bf84a82da52228b35129e3873d0",
+    "lines": 39,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_endpoint_sensitivity.py",
+    "sha256": "2f16aa84b1bddbbd0f2e353db3c4ff8d3a17d2ac1960f0e2b7fc4ce08e5869e0",
+    "lines": 15,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_eval.py",
+    "sha256": "8efd48dbe6ee498f15fbba4b6ad469781bbda6578df500566d3352e32b58bcb5",
+    "lines": 28,
+    "kind": ".py",
+    "definitions": [
+      "evaluate",
+      "to_seconds"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_fetch_reference.py",
+    "sha256": "e14d0be9200be229dbb0f86b7c1cc71815535c939baae500cc257687cdc52829",
+    "lines": 12,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_freeze.py",
+    "sha256": "11c3ce8f49dea0447fa37746bb1fce5cdf2703d04daedfd0b5e688b365339779",
+    "lines": 24,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_gap_controls.py",
+    "sha256": "bc24c13938529217952b7dd79f3bc076d46e37926b5b5b4bda4c8f9b80c018fe",
+    "lines": 19,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_gap_support.py",
+    "sha256": "b12f019c3c7d391283135566432cb2bd058317902a4173e8909841452506a2df",
+    "lines": 15,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_grid_geometry.py",
+    "sha256": "d85272c0733df74cd78470b804a0519d34a2b838391af0ce3ecc5984ef1af4d3",
+    "lines": 17,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_oracle.py",
+    "sha256": "642bcf6862d64fda0f06394f0c3d675308580d638759be786522b13e44a0a155",
+    "lines": 90,
+    "kind": ".py",
+    "definitions": [
+      "load_heads",
+      "encode",
+      "main",
+      "save_progress"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_oracle_analysis.py",
+    "sha256": "0db470380ab112121e59f55dc9bc9e3614b6d484f4a752d783cacb07e80b027c",
+    "lines": 27,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_oracle_v2.py",
+    "sha256": "b2617c7d054ff9295ac90599714300bcb0a96baddc9d56f9f698eeb519e6f65d",
+    "lines": 94,
+    "kind": ".py",
+    "definitions": [
+      "load_heads",
+      "encode",
+      "main",
+      "save_progress"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_p0.py",
+    "sha256": "58ded591af5030ed2b0674c09e60227dce3780bf47b9db140e2d0c18c7c13484",
+    "lines": 106,
+    "kind": ".py",
+    "definitions": [
+      "reference",
+      "ref_metric",
+      "independent_multilabel",
+      "main",
+      "NumpyCompat",
+      "visit_Attribute"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_replay_debug.py",
+    "sha256": "ac5dfb917974e8a4631ff13600691df06f67a525e38cb54260eff0d4a6674446",
+    "lines": 20,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_report.py",
+    "sha256": "18da02766a61d62135ea80e4eaf7e06e4d8771d1eb46197b88a21c03746237bc",
+    "lines": 120,
+    "kind": ".py",
+    "definitions": [
+      "table",
+      "save",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/overnight27_verify.py",
+    "sha256": "4e20f20edaa2b4ae1ee2fba0c6f50675dd6d67a052005100ef70295b2f3a2a00",
+    "lines": 29,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/pixel_training_data.py",
+    "sha256": "4f2e4da5336dd7654068414e84b9395a5b25d8caf1551869b9910c5af9b8e639",
+    "lines": 45,
+    "kind": ".py",
+    "definitions": [
+      "load_pixels",
+      "pixel_values"
+    ]
+  },
+  {
+    "path": "scripts/plot_mma52_intake.py",
+    "sha256": "c2829ee575df5c6c59481ec9dac592f0da8decfdb006d96dc31f95bfac5a9265",
+    "lines": 25,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/preflight_fullblock_v1.py",
+    "sha256": "d62c48c25ddb2d037c4ff5259bfc4432b31a16d90703489a0bda4a4fafb8f506",
+    "lines": 22,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/prepare_baseline_protocol.py",
+    "sha256": "24f5655f28a8bd9eb7975318dba27d635d7823b7a003e278d5b441c9054a29b7",
+    "lines": 48,
+    "kind": ".py",
+    "definitions": [
+      "prepare"
+    ]
+  },
+  {
+    "path": "scripts/prepare_bottleneck_pilot16.py",
+    "sha256": "39e3ee8e97217e7ab070e7e4de75670513e358bb35aa0e215303558ebf117422",
+    "lines": 36,
+    "kind": ".py",
+    "definitions": [
+      "key",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/preview_roi_factorial.py",
+    "sha256": "3b26f2ad0ea5224cca9e67d3fefee547917f6c56ea84b49383395a3251562575",
+    "lines": 58,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/probe_fullblock_v1.py",
+    "sha256": "95dd69be4fb34135b282810e63c4b35344d30d177050ae4dd0577a309b59dad5",
+    "lines": 67,
+    "kind": ".py",
+    "definitions": [
+      "variants",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/profile_videomae_small.py",
+    "sha256": "a10edb1715020a6e712f5645339f6e123b4ba7c33b3ce6795cebccb3abfe60e7",
+    "lines": 45,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/profile_wp3_fullblock.py",
+    "sha256": "f91d64601e0892bce73debec3452b623912228e3d1fc8ca1230cc479911f1d32",
+    "lines": 38,
+    "kind": ".py",
+    "definitions": [
+      "LastBlockProbe",
+      "main",
+      "__init__",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/report_baselines.py",
+    "sha256": "927ada4481162b425e29f58cf7e7a3923d5ebdc7eced633c4df2d472a66b0e28",
+    "lines": 111,
+    "kind": ".py",
+    "definitions": [
+      "report"
+    ]
+  },
+  {
+    "path": "scripts/report_fullblock_v1.py",
+    "sha256": "1d9a71cc1c94a97d20ede3a3a359c93305dfc94be4623ccda29944860d2e5cd5",
+    "lines": 171,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "sha",
+      "pct",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_group_cv.py",
+    "sha256": "edc6d2ca6e522d7ef58aaf1b6cf35ed586eb870c05ab9eab4d76f0ebc1e12bc9",
+    "lines": 125,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_hour_session.py",
+    "sha256": "dc504b86ca0e5d97ab02311918067b249a2221f24afa377b69b08785b7e9dcc6",
+    "lines": 72,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_mma52_v1.py",
+    "sha256": "86a0239279703d95c55293e18720d13a7c1f3312fe63e1903217758aeb72fa3a",
+    "lines": 80,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "sha",
+      "pct",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_roi_factorial.py",
+    "sha256": "c80daa231dc255f1bc9c5ab3e6e00665340548f3e5eee68289575673f594f694",
+    "lines": 88,
+    "kind": ".py",
+    "definitions": [
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage10.py",
+    "sha256": "7b108974de0b143b368fb0101d4d4c01bb48bd530eb34538cce327dcde5bae22",
+    "lines": 92,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage12.py",
+    "sha256": "f44578d4357edfd9deb356e95f8aba8fc008b675dc27cad46ca8be87ef2cd3c3",
+    "lines": 106,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage13.py",
+    "sha256": "867f0f4722f32fc3184fc12a3f6f3ccd90465a7fb679f999c73e619de787c435",
+    "lines": 72,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage3.py",
+    "sha256": "4eec9d1ae1704a5cc3a866d1cee52e7f42b4f75d7f29d8fabc11940b656aca3b",
+    "lines": 176,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "history",
+      "curve",
+      "score",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage7.py",
+    "sha256": "b7e323311fba61e256f4b8faedf64e49b0fc9e9655bea0e0d36afd89efcd7ebc",
+    "lines": 149,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "score",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage8.py",
+    "sha256": "0edb88ccfbe28da5314490c2f750dc42641298f0c7f1a0b7372e143d957d85ce",
+    "lines": 132,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "formatted",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_stage9.py",
+    "sha256": "7a413b5e66e03de7d18f8b55b9a366f25ed7803996ac70294d633d8c69252a53",
+    "lines": 125,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main",
+      "write_report"
+    ]
+  },
+  {
+    "path": "scripts/report_stages4_6.py",
+    "sha256": "38b32dd4c7976eae1915fe0617b76f857f5cb7d7daa7210899874eab3f79b050",
+    "lines": 255,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "score",
+      "run_results",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_temporal_order.py",
+    "sha256": "11c7bc83dcd151deb7c661bf7e6d66e2e22f0894ac90ba8316060500c9144289",
+    "lines": 94,
+    "kind": ".py",
+    "definitions": [
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_video_study.py",
+    "sha256": "a716c82c72181c23bf6a3d38df0b184e26711446b71da1525e0752351e90702a",
+    "lines": 127,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "contrast",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_wp2.py",
+    "sha256": "55e8d2a249831390bdc9d61bce4d335172eb6dfbbd5abdfa9d91fd13c7a34cfb",
+    "lines": 67,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "fmt",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/report_wp3_partial.py",
+    "sha256": "a915a21fb7d96eb6c9c90aea37543944828fd2d06345ccbf8f98efcf052275e1",
+    "lines": 154,
+    "kind": ".py",
+    "definitions": [
+      "read",
+      "sha",
+      "pm",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_common.py",
+    "sha256": "f30bd9ef2f6131ecd8faa9f812d00375dc5a08036c55b7b93380a58960623c44",
+    "lines": 31,
+    "kind": ".py",
+    "definitions": [
+      "rows",
+      "csvwrite",
+      "schedules",
+      "auc",
+      "binary"
+    ]
+  },
+  {
+    "path": "scripts/rg27_distribution.py",
+    "sha256": "b3e26650d72d41b9678f9e6e893c6e7cbe2c3032f4952fc88a17f46a6308a565",
+    "lines": 87,
+    "kind": ".py",
+    "definitions": [
+      "quantile",
+      "js",
+      "objective",
+      "logistic",
+      "cv_domain",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_distribution_v2.py",
+    "sha256": "2cf8eb4b75f4c719ea56a03aba8119b085596651599de8aba629b21f378f17a9",
+    "lines": 34,
+    "kind": ".py",
+    "definitions": [
+      "matched_cv",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_encode.py",
+    "sha256": "6dee6fd25dcdfe8f070604d2b48399f58fea8398b07be23f3467c4500b559eea",
+    "lines": 78,
+    "kind": ".py",
+    "definitions": [
+      "uniform_scores",
+      "encode",
+      "main",
+      "progress"
+    ]
+  },
+  {
+    "path": "scripts/rg27_encode_v2.py",
+    "sha256": "e98baf5d983d6c93a311cfd6fcf459d4d7b9d25df3bb19bf530bf3d15c09c1c0",
+    "lines": 63,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "encode_six",
+      "progress"
+    ]
+  },
+  {
+    "path": "scripts/rg27_figures.py",
+    "sha256": "e2837ce499da38166463c1b96817fde220a7803af0cdfb628b6c8759586d0b6b",
+    "lines": 20,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/rg27_interpretation.py",
+    "sha256": "a6b9099c89bf6ee565138b872ddc4bbbe9bf2d6b080d569b08cdd05d44d6152a",
+    "lines": 31,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_local_analysis.py",
+    "sha256": "37d431427f1b4b7015ea4a0b81a4822cfc6a85a2321cd265a3b389455083bfb5",
+    "lines": 49,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_public_metadata.py",
+    "sha256": "d027f1949e4d898c02e2c475e9cb5e0b16b8a4332e12cb7629b2c8a2ccde87b4",
+    "lines": 11,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/rg27_report.py",
+    "sha256": "bc18f5b522e652797bbc5bc9d347760be65d9e4220feace9b7898644a3857413",
+    "lines": 37,
+    "kind": ".py",
+    "definitions": [
+      "load",
+      "md",
+      "save",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_resource_audit.py",
+    "sha256": "13df824b4e85c0f03f77c0916463a5372345665145d05f3ddef0a029c3855cd2",
+    "lines": 7,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/rg27_v2_common.py",
+    "sha256": "23d6645500fa94455316d0060993ffaa891ac1e38d68efc10de86f99ebb2b1bf",
+    "lines": 3,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/rg27_verify.py",
+    "sha256": "50ebee1d71c5d3eba8de2be640021af5b3462f0d4895da768d60b18e3a7a5c76",
+    "lines": 53,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/roi_training_data.py",
+    "sha256": "f99726eefaddd075e3048dc0c460d03460a67482ec3d7c449b08db3517d43798",
+    "lines": 49,
+    "kind": ".py",
+    "definitions": [
+      "load_rois",
+      "roi_values"
+    ]
+  },
+  {
+    "path": "scripts/run_fullblock_v1.py",
+    "sha256": "e95ce32d5d3f47e786bf8eb02cd29feb073cea665c3f09f1d21cc9ddbbae3ffb",
+    "lines": 13,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/run_mma52_v1.py",
+    "sha256": "918b0eb08c2a6ed224bb9951d4c74d4230a9e0ae5fdfc63efb6eb35cac45eda9",
+    "lines": 36,
+    "kind": ".py",
+    "definitions": [
+      "write",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/run_stage10.py",
+    "sha256": "366ff74caad31404bffe1ab15246bc8d14c102a7c5fc25ca3d64efbb0f073a63",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage11.py",
+    "sha256": "ac0c4f5c1267e7972543ad3a47d6a05b528ef61457a9e7f5f5e4d22f90ef2f7a",
+    "lines": 7,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage12.py",
+    "sha256": "421e211feca6ebb570edfe21ff78688382d86aa4059a7b358874db5edcda2c65",
+    "lines": 15,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage13.py",
+    "sha256": "8d4026519bffdada0a27ae56d9ef64543a1c2d5c182ed797609340606bdf9cf1",
+    "lines": 11,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage14.py",
+    "sha256": "41c30a1b5a6c29ed9fb2e02f41bdb00876d7f154fb3963c97e309ec6a46cd177",
+    "lines": 7,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage15.py",
+    "sha256": "962d0ffd430248c070cf2829bf12da35a21f4a91cc847bde9e6623c4c3a78a41",
+    "lines": 12,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage16.py",
+    "sha256": "ccbecb631e5966b9c5d84e925084bad339af97f16c74ae1707c59a3bdb96ec55",
+    "lines": 8,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage2.py",
+    "sha256": "a87cde9c4e77e08c17639946ed32aa02340c66dd82cbdda570daf28025838e9e",
+    "lines": 52,
+    "kind": ".py",
+    "definitions": [
+      "run"
+    ]
+  },
+  {
+    "path": "scripts/run_stage3.py",
+    "sha256": "3cb3b0a6edac35419178817a0807a38dcca09eb23454a43c3490b779cde6c94b",
+    "lines": 40,
+    "kind": ".py",
+    "definitions": [
+      "run"
+    ]
+  },
+  {
+    "path": "scripts/run_stage7.py",
+    "sha256": "d5651e31815c2c7eaf38efe2d6d9bdaf5795d112c940057b25c7e495191a86b2",
+    "lines": 34,
+    "kind": ".py",
+    "definitions": [
+      "run"
+    ]
+  },
+  {
+    "path": "scripts/run_stage8.py",
+    "sha256": "e090bbae65aca7231a619b20bda1fa1808ff5937fb66494f20d3a0b1bb83d5ba",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stage9.py",
+    "sha256": "9d8eebaebfcbda6cf8b5f4f19fc61765f792665ab34c4ec702d313eb2fd7fee3",
+    "lines": 21,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stages10_11.py",
+    "sha256": "bdf1d4149ea7a69aece30e90a3db854c72b47ef54dbf615b2cab3a2059f97802",
+    "lines": 16,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/run_stages4_6.py",
+    "sha256": "2a1a3b45f2f6b318a7d9f5f24f5ad22106b358c8fc7955a34a65f45affb94d15",
+    "lines": 67,
+    "kind": ".py",
+    "definitions": [
+      "run",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/run_video_study.py",
+    "sha256": "b9cf0b4f15f35bf16976fa477d67eec86f2182d52316bc513baae8d564003658",
+    "lines": 13,
+    "kind": ".py",
+    "definitions": [
+      "run"
+    ]
+  },
+  {
+    "path": "scripts/run_wp3_partial.py",
+    "sha256": "73f288915ae398b90de6a3b97bf4b7e97b00418739ea2d3e92bd52eba62c3675",
+    "lines": 18,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/shared_motion_scaler.py",
+    "sha256": "618d7cb4cab59fa0981862b41371936006f99a4c9b128346453e18c7108ded6a",
+    "lines": 8,
+    "kind": ".py",
+    "definitions": [
+      "fit_shared"
+    ]
+  },
+  {
+    "path": "scripts/snapshot_stages4_6.py",
+    "sha256": "074cbdf8fd10abb0bd7bbacedf68844f7b34778bc079a676ff70ea00148aec14",
+    "lines": 37,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_close.py",
+    "sha256": "5ede806c2debfe9858c061d959b2b1d710799d731e4d63bd749231299c1db1c6",
+    "lines": 29,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_domain.py",
+    "sha256": "cad91673f6a710a95dae4796a95455003b67dd90d0571b554fd284bd1248c77e",
+    "lines": 52,
+    "kind": ".py",
+    "definitions": [
+      "cv",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_download.py",
+    "sha256": "487418254b61f4442c7985f86d64ddfbe92fdcddcfa7a97d9de3e3cab6d08f6a",
+    "lines": 30,
+    "kind": ".py",
+    "definitions": [
+      "sha",
+      "write",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_driver.py",
+    "sha256": "8e2ef6846665f782ef937f724067ad16064143fdf4147cbb2f5f98371b93acba",
+    "lines": 30,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_editorial_review.py",
+    "sha256": "f165273a332ca3d05be8e3ca6fba8f9a73d09a77e08a9630318d6e5cdc892499",
+    "lines": 82,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_encode.py",
+    "sha256": "e32e75267f36421907c69bfac8a59e5d32159a79f46d3537737a5c1d0d2aa82c",
+    "lines": 88,
+    "kind": ".py",
+    "definitions": [
+      "load",
+      "decode",
+      "forward",
+      "main",
+      "progress"
+    ]
+  },
+  {
+    "path": "scripts/strong28_figures.py",
+    "sha256": "920d71c20a14f8cfaa0fd936e85f15ceb89d8002511c7e943e3f56fa618de1d9",
+    "lines": 35,
+    "kind": ".py",
+    "definitions": [
+      "main",
+      "get"
+    ]
+  },
+  {
+    "path": "scripts/strong28_final_audit.py",
+    "sha256": "bf0bbe6b0c1f2df06c08d7519fbdd4aff5fbcbe1bfd852b80abc2663993fe2b8",
+    "lines": 32,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_probe.py",
+    "sha256": "414390eef8c7fa9b99fe88eef81bdc123574ee44058c015fae2d6ec5be9a032c",
+    "lines": 95,
+    "kind": ".py",
+    "definitions": [
+      "weighted_maps",
+      "rank_rr",
+      "units",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/strong28_report.py",
+    "sha256": "ca28879af97395cb0f15712ac8242aec9c86715668d52517a9681cdff3c95bd5",
+    "lines": 170,
+    "kind": ".py",
+    "definitions": [
+      "table",
+      "loadcsv",
+      "main",
+      "get",
+      "pair"
+    ]
+  },
+  {
+    "path": "scripts/strong28_verify.py",
+    "sha256": "0b5dd266bb8c39e75255bafef1d27949524addf29d00aef4203f039a23b231b3",
+    "lines": 19,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_baselines.py",
+    "sha256": "d097cdc5c53f2622472bdde9f708baea173f0a0dc761432fbc5537457fe77cf5",
+    "lines": 210,
+    "kind": ".py",
+    "definitions": [
+      "seed_everything",
+      "compact",
+      "pooled_array",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_fullblock_v1.py",
+    "sha256": "7f088221bb0e39e27df563d23f59c47cf8f38b14e9ccb097d8484b5ec6e5f089",
+    "lines": 101,
+    "kind": ".py",
+    "definitions": [
+      "metrics",
+      "score",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_group_cv.py",
+    "sha256": "45db7eec6921c654eca0e11874b0faa7a91de8af5affc31110ae59dd917e4b7f",
+    "lines": 157,
+    "kind": ".py",
+    "definitions": [
+      "method_inputs",
+      "train",
+      "summarize"
+    ]
+  },
+  {
+    "path": "scripts/train_guard_regions.py",
+    "sha256": "8470b315465e9649c7db12633a29174217942463ce0ffceff4cd2a5799f0d306",
+    "lines": 156,
+    "kind": ".py",
+    "definitions": [
+      "split_indices",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_mma52_adapt_v1.py",
+    "sha256": "31b56ae2337f69614685bfc5bea27e6784fbcbfa296b7f7d5b19f38c70721e97",
+    "lines": 67,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_mma52_heads_v1.py",
+    "sha256": "68c4d46466baf7483a806f1a493aa8b023b8a39ccca8c88564e73c8099a74822",
+    "lines": 58,
+    "kind": ".py",
+    "definitions": [
+      "cache",
+      "targets",
+      "normalized",
+      "metrics_for",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_motion_fusion.py",
+    "sha256": "9e8add2c3a1c2bd51ffad31706b4a2136248602a690444308cc313841a5a29f2",
+    "lines": 268,
+    "kind": ".py",
+    "definitions": [
+      "load_modalities",
+      "inputs_for",
+      "evaluate",
+      "write_json",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_motion_group_cv.py",
+    "sha256": "154d18777485c752ed92d57e602be8e675fa9a0a24b1a0b1cb6d86cdc3325170",
+    "lines": 156,
+    "kind": ".py",
+    "definitions": [
+      "method_inputs",
+      "train",
+      "summarize"
+    ]
+  },
+  {
+    "path": "scripts/train_normalization_closure.py",
+    "sha256": "d227b12e4fcdce50ea916ca5b8d170580fef1ada9ad05496906a5fb82d454db8",
+    "lines": 167,
+    "kind": ".py",
+    "definitions": [
+      "method_inputs",
+      "train",
+      "summarize"
+    ]
+  },
+  {
+    "path": "scripts/train_pixel_regions.py",
+    "sha256": "c92a459e36235c2cb9b816482e680660a45e9a4787dd66af124eabfdc2be134e",
+    "lines": 156,
+    "kind": ".py",
+    "definitions": [
+      "split_indices",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_regions.py",
+    "sha256": "2269e7f549ddfd3c6f08664c37c9d4b684819e4c97d93dc0ff41512fda1680f9",
+    "lines": 199,
+    "kind": ".py",
+    "definitions": [
+      "load_regions",
+      "split_indices",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_roi_factorial.py",
+    "sha256": "d251b08f4ed3b1bb9ae247bd39d4413173f6dbb6f239d39586b536b1b7c63562",
+    "lines": 153,
+    "kind": ".py",
+    "definitions": [
+      "method_inputs",
+      "train",
+      "summarize"
+    ]
+  },
+  {
+    "path": "scripts/train_sampling.py",
+    "sha256": "f5180831b7c4085c0cdeead9ee505f9973fa71e85b917e247e229e8fc4568250",
+    "lines": 197,
+    "kind": ".py",
+    "definitions": [
+      "load_inputs",
+      "aggregate",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_spatial_heads.py",
+    "sha256": "10db4e442585958a07b19bd35ad4222d4368b7366d03263e8dec73e35366c7a2",
+    "lines": 182,
+    "kind": ".py",
+    "definitions": [
+      "collect_attention",
+      "fixed_random_drops",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_structure.py",
+    "sha256": "db06961800b617a29a945ce474a8a75019b43d2c3583a418f8611fdbb6e07861",
+    "lines": 186,
+    "kind": ".py",
+    "definitions": [
+      "indices_for",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_temporal.py",
+    "sha256": "b6c6ae2310b0ed56a7c80619ae7acad6f481ef3c3eac0dbeb67e16d4f136dcab",
+    "lines": 238,
+    "kind": ".py",
+    "definitions": [
+      "state_digest",
+      "evaluation_permutations",
+      "evaluate",
+      "perturb_checkpoint",
+      "train"
+    ]
+  },
+  {
+    "path": "scripts/train_temporal_order.py",
+    "sha256": "075652a29fb994788b5722839ce9e68004f2837f5646fb118fb7b8efae692614",
+    "lines": 167,
+    "kind": ".py",
+    "definitions": [
+      "method_inputs",
+      "train",
+      "summarize"
+    ]
+  },
+  {
+    "path": "scripts/train_video_study.py",
+    "sha256": "867032f139664e677bbb4c1b8e8c68900628b007fc17f82f85ad1e1f4640906f",
+    "lines": 129,
+    "kind": ".py",
+    "definitions": [
+      "parameter_hash",
+      "prepare",
+      "predict",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_videomae_probe.py",
+    "sha256": "bcfdfb78b0db6e1bf3acab716d8495f1a64a2d24b97f931ac417ed4f10343100",
+    "lines": 59,
+    "kind": ".py",
+    "definitions": [
+      "load_features",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/train_wp3_partial.py",
+    "sha256": "f0d400ab707c574e7bc7f024baaa1083bf7d555b93f939dc966481cebd92a380",
+    "lines": 149,
+    "kind": ".py",
+    "definitions": [
+      "StatisticsReader",
+      "phash",
+      "write_json",
+      "EndpointScrambledPartialModel",
+      "make_partial_model",
+      "load_inputs",
+      "make_models",
+      "main",
+      "__init__",
+      "__getitem__",
+      "forward"
+    ]
+  },
+  {
+    "path": "scripts/validate_milestone.py",
+    "sha256": "efc77a8b5b022fda72b323ccc737ea6c935dabf8b5b5c55d2d7587450d33f8b2",
+    "lines": 27,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/validate_pilot16.py",
+    "sha256": "ba3fdea04a9d93ec07149cb5713d4ec2ccef926753f9ceae26c4351cc8a0d94b",
+    "lines": 21,
+    "kind": ".py",
+    "definitions": [
+      "validate",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_cuda.py",
+    "sha256": "ecb3e22a70e755e83a66338cb1aa8bbceb8ceb2365f4ebb52ebf8740c0f11a7d",
+    "lines": 37,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "scripts/verify_fullblock_v1.py",
+    "sha256": "9e96617146ae19460593bf4cbe8af900d124029eb45c47aba402db96c6f6cbd9",
+    "lines": 58,
+    "kind": ".py",
+    "definitions": [
+      "common_recall",
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_group_cv.py",
+    "sha256": "8ed11cfafeb144d7529997786914ed664fc2482b1abf400f1170434d33a3cc2a",
+    "lines": 107,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_guard_regions.py",
+    "sha256": "d0ca735a1de9ce76ad07397f244450171cf321d007a3d838650b938631cb7c69",
+    "lines": 94,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_mma52_v1.py",
+    "sha256": "856b06a66f84675a3bcc057b0b1acd6d179c0e4645b21bdfec1585a4323cdfef",
+    "lines": 44,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_motion_group_cv.py",
+    "sha256": "d4258ef12097dd585f4fd442f1a455aa082d6f9306f538d9def439fb20202790",
+    "lines": 103,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_normalization_closure.py",
+    "sha256": "e30ed8e6c243393c5c808fea41ad8f4d1f1977807282cab6db5c52f152414b88",
+    "lines": 167,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_pixel_regions.py",
+    "sha256": "e80d8ed9bc5714dd4ccb6c36d1886115f7e6308f85cee74f56bf2c24d0e1a818",
+    "lines": 106,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_regions.py",
+    "sha256": "d7ffed59215202090f1b063aa44c9711de4c1fdaca107f9aa2c59a1ce3f8ba32",
+    "lines": 152,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_roi_factorial.py",
+    "sha256": "fced4acc158925224b5e9aabd555beced0e2f4d06ae1359dd097e06fd3d49cbf",
+    "lines": 124,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_spatial_heads.py",
+    "sha256": "c0b6cb2eeb59e87494bc9b6946efa9d18574ef54ca07f6779278d05c373a297f",
+    "lines": 116,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_stage3.py",
+    "sha256": "e0680d5c25e34f30d8a4be22fe06a0e87442b4dc0a4bb14b99c3c0ca7987ae29",
+    "lines": 74,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_stage7.py",
+    "sha256": "1145de0e9b8cd40817819153f06dba847999cc9d8af9494ace15aa5ae8d33da8",
+    "lines": 84,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_stages4_6.py",
+    "sha256": "f74a614609ee4b94a0d05ecf610832b38567945c8c7c820355687a7761fdf8af",
+    "lines": 101,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_structure.py",
+    "sha256": "ee51bd9c49c7cfb669a25c1159b2f645ff2384076bf8492deaf2a3abd9855d09",
+    "lines": 115,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_temporal_order.py",
+    "sha256": "9ef5337e05a47e4e3bc9924d728214ce39a0f42764a3dbbd4ddc0eb39634cbc2",
+    "lines": 148,
+    "kind": ".py",
+    "definitions": [
+      "verify"
+    ]
+  },
+  {
+    "path": "scripts/verify_video_study.py",
+    "sha256": "656e710a6d13065f9562f8c5f7e9f5607ba0dd220fcbd0c9991192d31d50a0e3",
+    "lines": 80,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_video_study_cache.py",
+    "sha256": "26c87d25ea6f32e2f9c47e87b0358bae59827057d14ce50f01240d330575265d",
+    "lines": 38,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_videomae_probe.py",
+    "sha256": "55056337b4bbf8e38f8215a744c3c2761f1af55961b0936005c633631eb7b568",
+    "lines": 55,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/verify_wp3_partial.py",
+    "sha256": "82d3f8b4e3f8e35cbaee52f9314e7cb32947ecfc5f104db613d83ee50c9739e2",
+    "lines": 108,
+    "kind": ".py",
+    "definitions": [
+      "main"
+    ]
+  },
+  {
+    "path": "scripts/video_study_data.py",
+    "sha256": "4942a957f3f4638e49b1887bc9c32401c19ec2b735d8faf3efb05cf24ae1e09d",
+    "lines": 56,
+    "kind": ".py",
+    "definitions": [
+      "records",
+      "observation_indices",
+      "pair_coordinates",
+      "interpolate_position",
+      "decode",
+      "load_cache"
+    ]
+  },
+  {
+    "path": "scripts/wp2_common.py",
+    "sha256": "9e5fa2725fa5a9fae6ef48919db0324a67128912895569899a319b17e5c51856",
+    "lines": 103,
+    "kind": ".py",
+    "definitions": [
+      "seed_for",
+      "indices_for",
+      "normalize",
+      "decode_inputs",
+      "load_model",
+      "development_records"
+    ]
+  },
+  {
+    "path": "scripts/wp3_partial.py",
+    "sha256": "ef4af7be9657347d104bed910672c407b7cccf711677c7a14628c77af2efefa6",
+    "lines": 75,
+    "kind": ".py",
+    "definitions": [
+      "pool",
+      "PartialModel",
+      "profile",
+      "__init__",
+      "forward"
+    ]
+  },
+  {
+    "path": "src/motion/__init__.py",
+    "sha256": "c10548b82e9671705afb3c02f4981f6b7cfbee2eb1931ca2d098142f9cb0f6fa",
+    "lines": 1,
+    "kind": ".py",
+    "definitions": []
+  },
+  {
+    "path": "src/motion/baseline_data.py",
+    "sha256": "7eb5c8876cb94309aa7a1b909190dad66daa635577d81b37d12ffc18fbc43e3b",
+    "lines": 111,
+    "kind": ".py",
+    "definitions": [
+      "fingerprint",
+      "records_from_official",
+      "records_for_protocol",
+      "sample_baseline",
+      "letterbox_normalize",
+      "hash_file"
+    ]
+  },
+  {
+    "path": "src/motion/baseline_metrics.py",
+    "sha256": "99b9b35904f27e6a87cfc7ff92dc99f62614f84b4095d5042570558a7da9af58",
+    "lines": 24,
+    "kind": ".py",
+    "definitions": [
+      "classification_metrics"
+    ]
+  },
+  {
+    "path": "src/motion/baseline_models.py",
+    "sha256": "4ca8664df16bd98dd6695ceb853ee3b1e6aa1cd04e002521fa0ab40c1de5f6d5",
+    "lines": 39,
+    "kind": ".py",
+    "definitions": [
+      "choose_device",
+      "frozen_resnet18",
+      "pool_features"
+    ]
+  },
+  {
+    "path": "src/motion/evidence_sampling.py",
+    "sha256": "f5455e29a4011803de7a2c5c2a45cafc24138461f36043a982c60f57a868cc77",
+    "lines": 55,
+    "kind": ".py",
+    "definitions": [
+      "candidate_motion_scores",
+      "selection_indices",
+      "pool_selected"
+    ]
+  },
+  {
+    "path": "src/motion/explicit_motion.py",
+    "sha256": "92c5a751080d6e8092d7cf53d1155363c15ed7c4892f6e7612e4385367d84539",
+    "lines": 83,
+    "kind": ".py",
+    "definitions": [
+      "gray_small",
+      "pair_descriptor",
+      "aggregate_pairs",
+      "extract_video"
+    ]
+  },
+  {
+    "path": "src/motion/fusion_data.py",
+    "sha256": "53b72889f27e97e4a53420b81fc4f6304adb276a68894436348d3c8a884a81e0",
+    "lines": 28,
+    "kind": ".py",
+    "definitions": [
+      "fit_scaler",
+      "mismatch_motion",
+      "prefix",
+      "is_holdout"
+    ]
+  },
+  {
+    "path": "src/motion/group_folds.py",
+    "sha256": "b386ed9e93b928713c96a472572f9cd4d81f60124729683498ab98c3b45e4b52",
+    "lines": 29,
+    "kind": ".py",
+    "definitions": [
+      "group_key",
+      "fold_for",
+      "folds_for",
+      "check_partition"
+    ]
+  },
+  {
+    "path": "src/motion/guard_regions.py",
+    "sha256": "e35abbc98fd8fef71c1968475730fb43c49c0dff0c184e75732caf8411217c31",
+    "lines": 57,
+    "kind": ".py",
+    "definitions": [
+      "outside_ids",
+      "extract_guard"
+    ]
+  },
+  {
+    "path": "src/motion/pixel_regions.py",
+    "sha256": "f55401cfa1663854b212db8d24f9ac746c6ba35f303a6b010e1b1ac50d69d80b",
+    "lines": 118,
+    "kind": ".py",
+    "definitions": [
+      "grid_ids",
+      "masks_for",
+      "raw_fields",
+      "pool_fields",
+      "compensated",
+      "extract_regions",
+      "means"
+    ]
+  },
+  {
+    "path": "src/motion/region_controls.py",
+    "sha256": "c50e3d276052c6e39500360ce58abb9330fde55a81e985edf561c9bac1948746",
+    "lines": 67,
+    "kind": ".py",
+    "definitions": [
+      "box_occupancy",
+      "select_person",
+      "shifted_weights",
+      "apply_region",
+      "region_inputs"
+    ]
+  },
+  {
+    "path": "src/motion/region_partition.py",
+    "sha256": "e5b6d42ca2a8139d6f5190acaaab3991c10763a0269056eebecc0fdc02d6cde1",
+    "lines": 20,
+    "kind": ".py",
+    "definitions": [
+      "region_values",
+      "mask_diagnostics"
+    ]
+  },
+  {
+    "path": "src/motion/roi_factorial.py",
+    "sha256": "2b3c1d503c999b61baaeaa44386e1acdf3478d41f080dfd9bcf928e43957230f",
+    "lines": 81,
+    "kind": ".py",
+    "definitions": [
+      "fitted_box",
+      "factorial_boxes",
+      "temporal_mean",
+      "extract_factorial"
+    ]
+  },
+  {
+    "path": "src/motion/spatial_heads.py",
+    "sha256": "8c374d74f0d88c8f5da8c8f356ed14212b155a32635b9d7e08682c1efe9a295b",
+    "lines": 61,
+    "kind": ".py",
+    "definitions": [
+      "motion_tokens",
+      "SpatialHead",
+      "make_spatial_head",
+      "__init__",
+      "encode",
+      "aggregate",
+      "forward"
+    ]
+  },
+  {
+    "path": "src/motion/structure_controls.py",
+    "sha256": "dc437badffa3a8cd20a71f97c4dc19ea363a297cc97e7fe8ffa5be5f55451060",
+    "lines": 47,
+    "kind": ".py",
+    "definitions": [
+      "transform_motion",
+      "permute_motion",
+      "permute_motion_torch"
+    ]
+  },
+  {
+    "path": "src/motion/temporal_data.py",
+    "sha256": "d60326e64f46a39906af44dd65e51fccba179ee01a49a6d09ce576f44cfc1eaf",
+    "lines": 64,
+    "kind": ".py",
+    "definitions": [
+      "fit_frame_statistics",
+      "normalized_tensor",
+      "load_cache"
+    ]
+  },
+  {
+    "path": "src/motion/temporal_models.py",
+    "sha256": "601db88cd050967f72ca85d674801f4f983ed54f2bb8898b2d737c86990fb8d6",
+    "lines": 51,
+    "kind": ".py",
+    "definitions": [
+      "TemporalGRU",
+      "MeanMLP",
+      "make_model",
+      "random_permutations",
+      "permute_frames",
+      "__init__",
+      "forward",
+      "__init__",
+      "forward"
+    ]
+  },
+  {
+    "path": "src/motion/temporal_order.py",
+    "sha256": "d8ce59371378818466834542df47b00b8c6b5c08151530aae0da99b9f6190835",
+    "lines": 32,
+    "kind": ".py",
+    "definitions": [
+      "unpack",
+      "pack",
+      "transform"
+    ]
+  },
+  {
+    "path": "src/motion/video.py",
+    "sha256": "5ecdace521a5782b9cdcb9f7d9678565752b2ef8a8eab7d248da55ba5b809b81",
+    "lines": 90,
+    "kind": ".py",
+    "definitions": [
+      "open_video",
+      "metadata",
+      "uniform_indices",
+      "resize_frame",
+      "iter_frames",
+      "sample_frames",
+      "motion_pair"
+    ]
+  },
+  {
+    "path": "configs/baseline.json",
+    "sha256": "228b63fd49e2e97be7e05baebe442325ce1e0840c1033fcd8c1c4d5d49f952fc",
+    "lines": 8,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/baseline_pilot.json",
+    "sha256": "d9b956373092575a97351468cb1800798aa82cb4ca2d667e7811afd4433e697f",
+    "lines": 15,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/baseline_stage2.json",
+    "sha256": "85b7c7ec893b7bfb18cede98aa4f921dd1397e7bd08fadf2b7f63972813da07a",
+    "lines": 15,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/baseline_stage3_extended.json",
+    "sha256": "0b747409ff22a396e4291bfc4de2629faad13323fe9fc5b38e4036179869f0b8",
+    "lines": 15,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage10.json",
+    "sha256": "b9b4f886b746f71a6d126155e7bd5e977f8cd314ba87843f27d132f7aee9793f",
+    "lines": 11,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage11.json",
+    "sha256": "78017003591779ac9ee5908f5c9f0ba62aaa686c929ab44fcd2d4067efd9de92",
+    "lines": 10,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage12.json",
+    "sha256": "b59dd618932e70d7d6aaf52ed02abb13aab785db30f6793190c282b930bf5120",
+    "lines": 14,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage13.json",
+    "sha256": "c71918a30a168b2e3266f8b61b031e27528f3a130a777bbe738be82b7f700ab6",
+    "lines": 11,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage14.json",
+    "sha256": "f09e6db825bb59e1f33f54d0d97be6d9e86a0dbd552861ded2871494515f590b",
+    "lines": 10,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage15.json",
+    "sha256": "3c2829abe23695291dc7cee801fc14e7c75c178624d8a4da51736aa558e65bcb",
+    "lines": 10,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage16.json",
+    "sha256": "57fdf23f7e9e3a6a3a803b432d965da139b2a0106e12bb02ee4791b8cc118621",
+    "lines": 26,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage17.json",
+    "sha256": "98b7caf0fe2b659ea08fdad7993b67a2fb12d79cdaa9b0ecc2ad1721d0149742",
+    "lines": 23,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage7.json",
+    "sha256": "45026e87306b2360dfef231b66c7b81511cbcfaefd9085267ccff0dff699553b",
+    "lines": 16,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage8.json",
+    "sha256": "23bc2240e70ad92e26544f1f9d8dfc775435c26e8978f6412f21fa021e313868",
+    "lines": 13,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stage9.json",
+    "sha256": "71dfa96a648f8a6e4eda45c4b98e70b3c8e3e07122d452ec6bb72170045cc6ce",
+    "lines": 12,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/stages4_6.json",
+    "sha256": "71594f5cdb40765f602ce8412593cae4b126dfeb66677a88a2bd6a5830131650",
+    "lines": 18,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/temporal_stage3.json",
+    "sha256": "f68317b4850addf4e3c85b41c4067cb48f2a3d5b3c89f80f023c68388cfade4b",
+    "lines": 22,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "configs/temporal_stage3_pilot.json",
+    "sha256": "75b48c0cdc9920d28e7bd9c50f182b4102cdfc79f787caca36bcdbf634ca53d6",
+    "lines": 22,
+    "kind": ".json",
+    "definitions": []
+  },
+  {
+    "path": "tests/test_annotation_safety.py",
+    "sha256": "56c8e41b21de8b239defa5296f3e3ad3bf189a2e40a09a4aa962916c4d7e78ce",
+    "lines": 39,
+    "kind": ".py",
+    "definitions": [
+      "AnnotationSafetyTests",
+      "test_test_placeholders_never_become_ground_truth"
+    ]
+  },
+  {
+    "path": "tests/test_baseline_models.py",
+    "sha256": "17a0daefed711a35d8dfd4c94627e9f116406895cabc41a9e054c9f59fcaa537",
+    "lines": 21,
+    "kind": ".py",
+    "definitions": [
+      "PoolingTests",
+      "test_mean_permutation_invariant_and_static_uses_extra_center"
+    ]
+  },
+  {
+    "path": "tests/test_baseline_protocol.py",
+    "sha256": "4f4c8dec7b2528d713fb9b2a6f9347f8d9733a8fcced624a008ffce031d740dd",
+    "lines": 76,
+    "kind": ".py",
+    "definitions": [
+      "BaselineProtocolTests",
+      "test_remove_only_training_duplicate_and_reject_changed_data",
+      "test_metrics_known_confusion",
+      "test_letterbox_preserves_whole_frame_and_rgb_order",
+      "test_middle_frame_is_not_mistaken_for_fourth_uniform_frame"
+    ]
+  },
+  {
+    "path": "tests/test_evidence_annotation_tool.py",
+    "sha256": "26033299d5303076ce418986f45c15dbaeee0393532af02a7bb7749ff3d3feb5",
+    "lines": 94,
+    "kind": ".py",
+    "definitions": [
+      "document",
+      "ToolTests",
+      "setUp",
+      "tearDown",
+      "authorize_fixture",
+      "test_scope_gate_and_practice_is_not_human",
+      "test_public_template_is_not_authorization",
+      "test_versions_conflicts_and_revision_reason",
+      "test_invalid_intervals_regions_and_model_fields_rejected",
+      "test_first4_and_explicit_review_gate",
+      "test_exact_native_frame_sequential_and_backward",
+      "test_http_blinding_host_token_and_origin"
+    ]
+  },
+  {
+    "path": "tests/test_evidence_sampling.py",
+    "sha256": "ecb1f693ee8eef4c127d30fde03b5c11b474747191c02d68921fe2bd30166dd9",
+    "lines": 51,
+    "kind": ".py",
+    "definitions": [
+      "EvidenceSamplingTests",
+      "test_motion_interpolation_and_diversity",
+      "test_random_cardinality_stability_and_path_order",
+      "test_pool_excludes_extra_center_and_uses_float32"
+    ]
+  },
+  {
+    "path": "tests/test_explicit_motion.py",
+    "sha256": "c97f136b4454548037e20d399eedce17b1f21cf694290d11dcd3b339b5fcbb37",
+    "lines": 68,
+    "kind": ".py",
+    "definitions": [
+      "ExplicitMotionTests",
+      "test_static_and_translation",
+      "test_temporal_order_and_shape",
+      "test_streaming_uses_adjacent_original_frames_and_rejects_early_eof",
+      "Capture",
+      "__init__",
+      "isOpened",
+      "get",
+      "grab",
+      "retrieve",
+      "release"
+    ]
+  },
+  {
+    "path": "tests/test_fullblock_v1.py",
+    "sha256": "8b3314787068396984be370dcb57563e447941088852dd598422c52ced4d3c53",
+    "lines": 25,
+    "kind": ".py",
+    "definitions": [
+      "FullBlockTests",
+      "test_accumulation_matches_full_logical_batch",
+      "test_real_partitions_keep_inner_source_seen_and_outer_disjoint"
+    ]
+  },
+  {
+    "path": "tests/test_fusion_controls.py",
+    "sha256": "8fad48320e75d168d07ce4f189f5c2d5bfb090bda0ecd1c546d911eb0fb2331a",
+    "lines": 28,
+    "kind": ".py",
+    "definitions": [
+      "FusionControlTests",
+      "test_train_only_normalization",
+      "test_mismatch_keeps_appearance_and_motion_multiset"
+    ]
+  },
+  {
+    "path": "tests/test_group_folds.py",
+    "sha256": "8ab6d25652fc2b402d8f33d58f34802bcc747ccfc11c36a1e58a4dc4c1cf27f6",
+    "lines": 34,
+    "kind": ".py",
+    "definitions": [
+      "GroupFoldTests",
+      "test_clip_order_and_suffix_do_not_change_fold",
+      "test_disjoint_exhaustive_partition_and_no_validation"
+    ]
+  },
+  {
+    "path": "tests/test_guard_regions.py",
+    "sha256": "caf5f74acba9f789c20d46138f1fe7e908dbb3fd977562724d3b5b06b433b660",
+    "lines": 29,
+    "kind": ".py",
+    "definitions": [
+      "GuardTests",
+      "test_zero_margin_anchor_and_nested_masks",
+      "test_missing_box_and_full_box"
+    ]
+  },
+  {
+    "path": "tests/test_local_delta.py",
+    "sha256": "056508517fe4652693cd67ab686cf6e2796ad46a3064ac9e460842cede0d7e22",
+    "lines": 25,
+    "kind": ".py",
+    "definitions": [
+      "DeltaTests",
+      "test_parameter_match_and_zero_motion",
+      "test_zero_init_matches_same_head"
+    ]
+  },
+  {
+    "path": "tests/test_mma52_resolution_v1.py",
+    "sha256": "e849ca808a68ad5f1515ddb983f27773c9a29fa1f8cea196b8d0b044b2efab09",
+    "lines": 26,
+    "kind": ".py",
+    "definitions": [
+      "ResolutionTests",
+      "test_duplicate_centers_are_averaged",
+      "test_actual_time_interpolation_and_endpoint_clamp",
+      "test_halfopen_labels",
+      "test_eight_query_proposals_equal_v1",
+      "test_gaps_are_marked"
+    ]
+  },
+  {
+    "path": "tests/test_mma52_v1.py",
+    "sha256": "906e7405a6454f7a2a3ba67f3977b3f472d45f0e66f3076e54b8603565ffc320",
+    "lines": 30,
+    "kind": ".py",
+    "definitions": [
+      "MMATests",
+      "test_ties_and_perfect_ranking",
+      "test_fixed52_and_multilabel",
+      "test_budget_and_local_query_alignment",
+      "test_perfect_detection_and_bad_detection",
+      "test_body_taxonomy_uses_seven_classes",
+      "test_query_runs_preserve_overlapping_classes",
+      "test_train_inner_and_official_val_disjoint"
+    ]
+  },
+  {
+    "path": "tests/test_overnight27.py",
+    "sha256": "55efbb80d62ce51c2dc32655cae26f737eb45957565c7ebae890e420b16babcf",
+    "lines": 24,
+    "kind": ".py",
+    "definitions": [
+      "OvernightTests",
+      "test_oracle_unique_and_short_context",
+      "test_unit_invariance_at_thresholds",
+      "test_duplicate_and_class_failure",
+      "test_cmh_direction_and_failure_table"
+    ]
+  },
+  {
+    "path": "tests/test_pixel_regions.py",
+    "sha256": "b37530060f3c32c6739119654877f467c1df6c2947022ded5c13aa83ea1bfa7e",
+    "lines": 69,
+    "kind": ".py",
+    "definitions": [
+      "PixelRegionTests",
+      "test_grid_boundaries_and_empty_box",
+      "test_exact_constant_regions_and_variance_reconstruction",
+      "test_original_descriptor_agreement_and_static",
+      "test_background_translation_subtraction"
+    ]
+  },
+  {
+    "path": "tests/test_region_controls.py",
+    "sha256": "a012daafa5dd486a649677e830c4123e45003a736632b64b4ae2ea16b43c8492",
+    "lines": 61,
+    "kind": ".py",
+    "definitions": [
+      "RegionTests",
+      "test_exact_area_and_grid_layout",
+      "test_detection_threshold_and_missing",
+      "test_complement_and_joint_components",
+      "test_shift_area_and_geometry_no_motion",
+      "test_strict_outside_excludes_every_positive_overlap"
+    ]
+  },
+  {
+    "path": "tests/test_roi_factorial.py",
+    "sha256": "2b39e5e6424dbcfc24b1ed7ebe39bb9e90af66bd250ddb4fbe793438251dd317",
+    "lines": 39,
+    "kind": ".py",
+    "definitions": [
+      "ROIFactorialTests",
+      "test_position_extent_factorial_and_anchor",
+      "test_boundary_preserves_size_and_missing_gate",
+      "test_temporal_mean_is_joint_and_order_invariant"
+    ]
+  },
+  {
+    "path": "tests/test_spatial_heads.py",
+    "sha256": "a348dbef0fd9321c9fa545459e8b920876ba1b100f21ffd6ca45526cc6b399af",
+    "lines": 55,
+    "kind": ".py",
+    "definitions": [
+      "SpatialHeadTests",
+      "test_layout_and_parameter_controls",
+      "test_weights_masking_and_finite_gradients",
+      "test_paired_token_position_permutation_invariance"
+    ]
+  },
+  {
+    "path": "tests/test_structure_controls.py",
+    "sha256": "d1f9980f7ec5af6a8a8475328536401aa66371f749a19d9f4585fd81ceebd4a7",
+    "lines": 51,
+    "kind": ".py",
+    "definitions": [
+      "StructureTests",
+      "setUp",
+      "test_joint_layout_and_inverse",
+      "test_pooling_invariance",
+      "test_intensity_retains_exact_two_statistics",
+      "test_raw_permute_before_position_scaler"
+    ]
+  },
+  {
+    "path": "tests/test_temporal_controls.py",
+    "sha256": "6618303c5da48b4d7a46b7c806339b596197a70f7ddf6a6c756fc3a84f56caa0",
+    "lines": 56,
+    "kind": ".py",
+    "definitions": [
+      "TemporalControlTests",
+      "test_permutations_preserve_each_video_and_fixed_last",
+      "test_stats_ignore_validation_and_extra_center_slot",
+      "test_capacity_control_invariance_and_gru_gradient_flow"
+    ]
+  },
+  {
+    "path": "tests/test_temporal_order.py",
+    "sha256": "f2d45d9db28ef713ed1cb0886a338800902c2fdf35e140ae713831cd95eedb50",
+    "lines": 41,
+    "kind": ".py",
+    "definitions": [
+      "TemporalOrderTests",
+      "test_layout_and_joint_permutation",
+      "test_all_permutations_and_ties",
+      "test_mean_anchor_and_statistics"
+    ]
+  },
+  {
+    "path": "tests/test_video.py",
+    "sha256": "41023ad5cc45d5d1edb388d302cb61fab37200cccd3f0d2295c0a1171ca9ec00",
+    "lines": 52,
+    "kind": ".py",
+    "definitions": [
+      "VideoTests",
+      "test_sampling_boundaries",
+      "test_static_and_translation",
+      "test_avi_roundtrip_and_errors"
+    ]
+  },
+  {
+    "path": "tests/test_video_study.py",
+    "sha256": "04ef31cd1374501ebea1a8402f9101f1af711db55fda8ea545831ba96b832fe0",
+    "lines": 21,
+    "kind": ".py",
+    "definitions": [
+      "TimingTests",
+      "test_real_uniform_identity_and_spatial_positions",
+      "test_endpoint_coverage_and_budget"
+    ]
+  },
+  {
+    "path": "tests/test_wp2_sampling.py",
+    "sha256": "ec29ae1c1e64feb7caaef3d422eeeb6c0dccf68e1d015d7780c7d058c81897b4",
+    "lines": 22,
+    "kind": ".py",
+    "definitions": [
+      "SamplingTests",
+      "test_budget_contiguity_and_determinism",
+      "test_wholeframe_normalization"
+    ]
+  },
+  {
+    "path": "tests/test_wp3_partial.py",
+    "sha256": "0a60699fdf72ee8841a71b7e6b7875b42d7ca9e1da1f46f2b8fad7f68db1b743",
+    "lines": 46,
+    "kind": ".py",
+    "definitions": [
+      "backbone",
+      "PartialTests",
+      "test_bounded_statistics_reader_matches_numpy_selection",
+      "test_pool_preserves_global_values_and_projection_gradients",
+      "test_shared_init_parameter_match_and_real_backbone_updates"
+    ]
+  }
+]

@@ -1,0 +1,841 @@
+[
+  {
+    "stage": "annotation_tool_unit_fixtures",
+    "files": 0,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "bottleneck_pilot16",
+    "files": 7,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "cli_smoke",
+    "files": 5,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "demo_1",
+    "files": 5,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "demo_2",
+    "files": 5,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "detection_baseline_v2",
+    "files": 277,
+    "checkpoints": 7,
+    "prediction_files": 2,
+    "logs": 4,
+    "completion_markers": [
+      {
+        "path": "experiments/detection_baseline_v2/status.json",
+        "sha256": "246fdb52101d82ccf45332d25a6633404af1d55d6f531cabacf0979038e8028f",
+        "status": {
+          "state": "complete_verified"
+        }
+      },
+      {
+        "path": "experiments/detection_baseline_v2/training_complete.json",
+        "sha256": "297f711d0453028123171bbfd626f0fe02c4a5ff788a4352fbf46571624bde95",
+        "status": {
+          "complete": true,
+          "units": 2
+        }
+      },
+      {
+        "path": "experiments/detection_baseline_v2/verification.json",
+        "sha256": "388d2e7a1004dbd4e982937fe513edb64d500c5cd71b2b8070cb3108bb0755cb",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "evidence_annotation_session_v1",
+    "files": 5,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 2,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "evidence_annotation_tool_qa",
+    "files": 7,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 2,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "evidence_pilot",
+    "files": 7,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "fullblock_v1",
+    "files": 178,
+    "checkpoints": 25,
+    "prediction_files": 20,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/fullblock_v1/verification.json",
+        "sha256": "2733f281d057ded9c8b1d98455ed29e36af784643ecc9c274c8e71707fcd2139",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "hour_session_20261021",
+    "files": 1,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "local_recognition_probe_v1",
+    "files": 38,
+    "checkpoints": 12,
+    "prediction_files": 6,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/local_recognition_probe_v1/completion.json",
+        "sha256": "ad1030803c6a9e0aff738ba728c8b8f653464bfccbc252ce624ae922b5d54cd4",
+        "status": {
+          "complete": true,
+          "units": 6
+        }
+      },
+      {
+        "path": "experiments/local_recognition_probe_v1/training_complete.json",
+        "sha256": "bbf2cad24cc72ca9be396f28d6ba0e7969745ce650a6b4b76a68dfb92c2971c5",
+        "status": {
+          "complete": true,
+          "units": 6
+        }
+      },
+      {
+        "path": "experiments/local_recognition_probe_v1/verification.json",
+        "sha256": "5d5e81b26fd2b52909808827672a0fb01109db2200af3ff315224a7beed2fbbc",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "method_development_v1",
+    "files": 84,
+    "checkpoints": 12,
+    "prediction_files": 6,
+    "logs": 5,
+    "completion_markers": [
+      {
+        "path": "experiments/method_development_v1/audit.json",
+        "sha256": "06599039dff31c99edce43cfa880be3b04d527bec2223d9e357703e613cad5bf",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/method_development_v1/completion.json",
+        "sha256": "8b37e2ca25137a135b7b140ff8d776f82f287385148d6f351a9952bc0b854412",
+        "status": {
+          "complete": true
+        }
+      },
+      {
+        "path": "experiments/method_development_v1/probe_complete.json",
+        "sha256": "2a9531a17e63ebcf98b26202aeee5f1029dbaa285dd67682eb4eb5fe44a6a1a0",
+        "status": {
+          "complete": true,
+          "units": 4
+        }
+      },
+      {
+        "path": "experiments/method_development_v1/status.json",
+        "sha256": "7c2ab867133f61a9ff5b4bd406975aea38f23f148cdd3304ece4e7ab15632d5e",
+        "status": {
+          "state": "complete_verified_frozen",
+          "new_reference_training_units": 4,
+          "M1_status": "rejected_before_natural_training"
+        }
+      },
+      {
+        "path": "experiments/method_development_v1/training_complete.json",
+        "sha256": "42d3c14a1e449109943b8cacc12ba5b6b00a3768950b5bcb23971cce3758b9c0",
+        "status": {
+          "complete": true,
+          "units": 4
+        }
+      }
+    ],
+    "classification": "VERIFIED",
+    "qualification": "VERIFIED applies only to re-scored local metrics; other observations are historical."
+  },
+  {
+    "stage": "mma52_mechanism_review_v1",
+    "files": 6,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "mma52_resolution_v1",
+    "files": 37,
+    "checkpoints": 4,
+    "prediction_files": 2,
+    "logs": 6,
+    "completion_markers": [
+      {
+        "path": "experiments/mma52_resolution_v1/completion.json",
+        "sha256": "70f197629cc3030c3bdbc8da43eea1dfa05f49bea576f94b7bb7d13d14843475",
+        "status": {
+          "complete": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "mma52_v1",
+    "files": 152,
+    "checkpoints": 38,
+    "prediction_files": 22,
+    "logs": 8,
+    "completion_markers": [
+      {
+        "path": "experiments/mma52_v1/verification.json",
+        "sha256": "4e65990472bec44c65398ab1794def84c2b308bd1c49abc61bc178d97d53d999",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/mma52_v1/report/completion.json",
+        "sha256": "c3ee3478bf6d446441073b0932ab6b524f4292575a4ac76cf872b4f0058d5d26",
+        "status": {
+          "complete": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "mma52_workday_v1",
+    "files": 2,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/mma52_workday_v1/status.json",
+        "sha256": "7f9d47b3a2e5645df5da6081a96a22a75e6d9ce303a4367ce2a8fe0a7651a0be",
+        "status": {}
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "overnight_2026-10-27",
+    "files": 90,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 12,
+    "completion_markers": [
+      {
+        "path": "experiments/overnight_2026-10-27/completion.json",
+        "sha256": "b27b32638ba8781eb512e3fe8a79c17d4d41114d6ac10ab855796ba89d0e9f97",
+        "status": {
+          "complete": true
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-27/verification.json",
+        "sha256": "c312c847072b9e7b8cd354c587ce0ff96b48b01225b776907e2e5e87044e497e",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "overnight_2026-10-28",
+    "files": 122,
+    "checkpoints": 7,
+    "prediction_files": 21,
+    "logs": 8,
+    "completion_markers": [
+      {
+        "path": "experiments/overnight_2026-10-28/completion.json",
+        "sha256": "229153b4eef9ccfbdcc190d49e04f15c2323b69a337d1539c58e97a5ec9b1741",
+        "status": {
+          "complete": true
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-28/final_audit.json",
+        "sha256": "d015012651f462358730efb0197cf089d4d0cbd6420a062655c517b58c5c15b5",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-28/probe_complete.json",
+        "sha256": "939a94b1416dced4002e56dadd6649d59d5b4a633404298443156e2bbec4e1e6",
+        "status": {
+          "complete": true,
+          "units": 2
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-28/status.json",
+        "sha256": "9d931778b5dc7a00d5807c390afabc6474128a2d76192274ff2907c77858cb9e",
+        "status": {
+          "state": "complete_verified_frozen"
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-28/training_complete.json",
+        "sha256": "984b8a0c1eb43c47ecc01a523b3b4477f02ed3a7ab984ac6e7dd0e7c67511521",
+        "status": {
+          "complete": true,
+          "units": 2
+        }
+      },
+      {
+        "path": "experiments/overnight_2026-10-28/verification.json",
+        "sha256": "fef09cc57fbdd4becb9653ccec1da89af929b2ed609a31b06ca4f99a1f693a14",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "VERIFIED",
+    "qualification": "VERIFIED applies only to re-scored local metrics; other observations are historical."
+  },
+  {
+    "stage": "pretrained",
+    "files": 5,
+    "checkpoints": 2,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "representation_generalization_2026-10-27",
+    "files": 94,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 5,
+    "completion_markers": [
+      {
+        "path": "experiments/representation_generalization_2026-10-27/completion.json",
+        "sha256": "f69ad3233513fe54c0bba001f9a33414145cd0c92c50c3075e78cb61e39ad4db",
+        "status": {
+          "state": "complete_verified_frozen"
+        }
+      },
+      {
+        "path": "experiments/representation_generalization_2026-10-27/status.json",
+        "sha256": "f69ad3233513fe54c0bba001f9a33414145cd0c92c50c3075e78cb61e39ad4db",
+        "status": {
+          "state": "complete_verified_frozen"
+        }
+      },
+      {
+        "path": "experiments/representation_generalization_2026-10-27/verification.json",
+        "sha256": "5acf9db6b6b6faedf261a3eb7d4214d516eed11ebb7a693386fa17cfd0d5f3f0",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "research_v2",
+    "files": 2,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "rg27_initial_partial_v1",
+    "files": 62,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 2,
+    "completion_markers": [
+      {
+        "path": "experiments/rg27_initial_partial_v1/status.json",
+        "sha256": "bbb162d3dd2040ad259cf3784bbb60e96613600e5d948680ec64820f19fb8ce2",
+        "status": {
+          "state": "encoding"
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "runtime",
+    "files": 3,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage10",
+    "files": 199,
+    "checkpoints": 42,
+    "prediction_files": 42,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage10/verification.json",
+        "sha256": "144c60ba39efc41b7d29e93a9822d391e195e9528b00657bc9d9c6535fa9d5a3",
+        "status": {
+          "passed": true,
+          "formal_runs": 36
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage11",
+    "files": 618,
+    "checkpoints": 144,
+    "prediction_files": 144,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage11/verification.json",
+        "sha256": "69c5bb7d1bac549e0340e95741982870a180e8da47749955526322a0e7ea27c1",
+        "status": {
+          "passed": true,
+          "formal_runs": 135
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage12",
+    "files": 313,
+    "checkpoints": 66,
+    "prediction_files": 66,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage12/verification.json",
+        "sha256": "83c6de3d05bf54ad76678ce97c3990a1f40d0520c8f1d2712616959e97ff571c",
+        "status": {
+          "passed": true,
+          "formal_runs": 54
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage13",
+    "files": 140,
+    "checkpoints": 28,
+    "prediction_files": 28,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage13/verification.json",
+        "sha256": "7f2643acb1d96af4f24d048315259b127240e801e5f484dd92ff18df03f7370f",
+        "status": {
+          "passed": true,
+          "formal_runs": 24
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage14",
+    "files": 351,
+    "checkpoints": 80,
+    "prediction_files": 80,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage14/verification.json",
+        "sha256": "9e01eecc29835e006ed9b3c1d4addc9fd7866ce0e44fb163b2fdad28983e2dfd",
+        "status": {
+          "passed": true,
+          "formal_runs": 75
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage15",
+    "files": 574,
+    "checkpoints": 128,
+    "prediction_files": 128,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage15/verification.json",
+        "sha256": "7447efb515b90c7d17dbab750248a78583bb08ce9dc19247d7cb6f04ad147735",
+        "status": {
+          "passed": true,
+          "formal_runs": 120
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage16",
+    "files": 352,
+    "checkpoints": 80,
+    "prediction_files": 80,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage16/verification.json",
+        "sha256": "612176056c2be5d946660b6b9ff2f4b6564907cb8a733ac06da2d7d6d85b69db",
+        "status": {
+          "passed": true,
+          "formal_runs": 75
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage17",
+    "files": 147,
+    "checkpoints": 32,
+    "prediction_files": 32,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage17/verification.json",
+        "sha256": "b66e860cfe9ae147dce0d5ed4e5de03e87a354768947e89dfd223365403f89e0",
+        "status": {
+          "passed": true,
+          "formal_runs": 30
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage2",
+    "files": 58,
+    "checkpoints": 8,
+    "prediction_files": 8,
+    "logs": 1,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage3",
+    "files": 103,
+    "checkpoints": 18,
+    "prediction_files": 30,
+    "logs": 3,
+    "completion_markers": [
+      {
+        "path": "experiments/stage3/verification.json",
+        "sha256": "8a4afff17c2f648acc13bcbb80f23df2f5c4b7950608b50f9d7feafd35ab9f68",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage4",
+    "files": 100,
+    "checkpoints": 16,
+    "prediction_files": 32,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage5",
+    "files": 120,
+    "checkpoints": 24,
+    "prediction_files": 40,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage6",
+    "files": 64,
+    "checkpoints": 15,
+    "prediction_files": 15,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage7",
+    "files": 305,
+    "checkpoints": 64,
+    "prediction_files": 64,
+    "logs": 5,
+    "completion_markers": [
+      {
+        "path": "experiments/stage7/verification.json",
+        "sha256": "816a12b85e22ae450a77f52eededba4e4b031632a797ec8e3382092734bc731c",
+        "status": {
+          "passed": true,
+          "formal_runs": 57
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage8",
+    "files": 153,
+    "checkpoints": 29,
+    "prediction_files": 29,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage8/verification.json",
+        "sha256": "65bf55e94753bc2daf8b4dfc367618e882d61c5dff5f586ae36d86329b04235d",
+        "status": {
+          "passed": true,
+          "formal_runs": 24
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stage9",
+    "files": 216,
+    "checkpoints": 43,
+    "prediction_files": 43,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/stage9/verification.json",
+        "sha256": "1475a69bd45ae59399af0d295bacf185ced40cbe727d86002a68d8333481a7b5",
+        "status": {
+          "passed": true,
+          "formal_runs": 36
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "stages4_6",
+    "files": 25,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 9,
+    "completion_markers": [
+      {
+        "path": "experiments/stages4_6/verification.json",
+        "sha256": "f1c1cd5f3c7c603deed8d863badc869ec169f0f673d4505e4a1e3ba5f9ca27b6",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "subject_metadata_audit",
+    "files": 15,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/subject_metadata_audit/audit.json",
+        "sha256": "0cbf6eae56b951718650a8ee7d46bb285c36070c5f1fb0fc0e1526a966609e0b",
+        "status": {}
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "video_study",
+    "files": 296,
+    "checkpoints": 42,
+    "prediction_files": 42,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/video_study/adapter/verification.json",
+        "sha256": "62c63719e126fc5633015efe4dfdffe432e607aa9a36c5f8b1449e8f9a828844",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/video_study/controls/verification.json",
+        "sha256": "b4806112958e066af2998f86ebcfc6587c7bace553425ccef9d3a6a013f7bc51",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/video_study/full/verification.json",
+        "sha256": "6506ecee037b7cbeab833a1139a06dcdae2c61ce4ae1b3b43e2ae572b837c21a",
+        "status": {
+          "passed": true
+        }
+      },
+      {
+        "path": "experiments/video_study/license/status.json",
+        "sha256": "c7f99c41bbd2db79895f94ab669746387584340ad80370867ba0652aa2bf574f",
+        "status": {}
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "wp1_lineage",
+    "files": 12,
+    "checkpoints": 0,
+    "prediction_files": 0,
+    "logs": 0,
+    "completion_markers": [],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "wp2",
+    "files": 81,
+    "checkpoints": 16,
+    "prediction_files": 15,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/wp2/verification.json",
+        "sha256": "cfbd120f33c35001316118bb136ede2ea81673faadf12cd5aff3ec34963d87e8",
+        "status": {
+          "passed": true
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  },
+  {
+    "stage": "wp3_partial",
+    "files": 555,
+    "checkpoints": 104,
+    "prediction_files": 198,
+    "logs": 0,
+    "completion_markers": [
+      {
+        "path": "experiments/wp3_partial/verification.json",
+        "sha256": "08832da75f6fc4d00dbafbef28f1c735efa165203d5b4a0ce82e661c35b14de5",
+        "status": {
+          "passed": true,
+          "units": 99
+        }
+      }
+    ],
+    "classification": "HISTORICAL BUT UNREPRODUCED",
+    "qualification": "Artifacts inspected; no retraining or full prediction replay in this release."
+  }
+]

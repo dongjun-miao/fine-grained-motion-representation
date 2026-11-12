@@ -1,0 +1,28 @@
+{
+  "status": "Historical protocol, not a training command",
+  "seeds": [
+    42,
+    1601
+  ],
+  "fit_videos": 1024,
+  "inner_videos": 454,
+  "retained_validation_videos": 1459,
+  "frames": 16,
+  "temporal_positions": 8,
+  "classes": 52,
+  "backbone": "VideoMAE-S K400",
+  "feature_dim": 384,
+  "epochs": 50,
+  "batch_size": 64,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "normalization": "clean Fit mean/std",
+  "selection": "minimum clean Inner unweighted BCE every 10 epochs; earliest tie",
+  "cases": {
+    "B0": "one clean view; historical checkpoint",
+    "B1": "mean weighted BCE of clean and fixed photometric view",
+    "B2": "B1 + mean sigmoid prediction squared difference, lambda=1"
+  },
+  "warning": "GT-local oracle and reused development validation; not deployable localization."
+}

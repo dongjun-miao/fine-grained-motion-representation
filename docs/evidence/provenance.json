@@ -1,0 +1,52 @@
+{
+  "audit_date": "2026-11-12",
+  "metric_checks": 78,
+  "raw_predictions_distributed": false,
+  "inputs": [
+    {
+      "source": "experiments/method_development_v1/B0_seed42_predictions.npz",
+      "sha256": "476d4eb11b5244855c6323fd3cf608343cdf104f2992dfc61b33472dab2c7fac",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/method_development_v1/B0_seed1601_predictions.npz",
+      "sha256": "e60d5b610635e82a559bbe7aa80cf3c7e8cde17fd91576b861de2144393c0c5a",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/method_development_v1/heads/B1/seed42/predictions.npz",
+      "sha256": "7379d57af579b102aaef9a902f06c376020b78b196d93678b68787e1897d2284",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/method_development_v1/heads/B1/seed1601/predictions.npz",
+      "sha256": "226d8e93357055178ca0a4bfaf4c26c74124a3d356a52bbdfc30e4b187223f6f",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/method_development_v1/heads/B2/seed42/predictions.npz",
+      "sha256": "8b0750dc9864da4d679afd519f88a224f002f0a035fa5f3bef62df2bc98cdac9",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/method_development_v1/heads/B2/seed1601/predictions.npz",
+      "sha256": "1f0b13d249c9eaf82efdfd4033522e898535a1447912f847cd01c36c9d44be80",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/overnight_2026-10-28/heads/seed42/predictions.npz",
+      "sha256": "b32f1a75e9d1693d2f6b35671dd63db06916fabcd0f2552821b52d0e7bd55bac",
+      "published": "aggregate only; individual predictions excluded"
+    },
+    {
+      "source": "experiments/overnight_2026-10-28/heads/seed1601/predictions.npz",
+      "sha256": "83a678832b5454ed0e93cf11ae5691c76950471ed97d090e840ff9165f80dd78",
+      "published": "aggregate only; individual predictions excluded"
+    }
+  ],
+  "label_source_sha256": "4dfe04f3bf852751171baf82e0fd7a9b5bc8b36eb822ff29b089d4f6d95de3e2",
+  "small_artifacts_hash_checked": 1152,
+  "mismatches": [],
+  "source_review_files": 404,
+  "scope": "Read every first-party text source/report/config; inspect experiment artifacts and status. Not a line-by-line correctness proof or a training rerun."
+}
